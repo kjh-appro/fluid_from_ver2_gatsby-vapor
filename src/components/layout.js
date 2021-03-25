@@ -40,7 +40,7 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
           >
-              { HeadLogo } 
+              <img src={ HeadLogo } />  
       </Link>
 
           <div className="nav-container">
