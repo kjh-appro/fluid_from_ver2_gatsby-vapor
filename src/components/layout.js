@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
-import { HeadLogo } from "./content/assets/header-logo.png";
+import { HeadLogo } from "../components/header-logo.png";
 
 class Layout extends Component {
   render() {
