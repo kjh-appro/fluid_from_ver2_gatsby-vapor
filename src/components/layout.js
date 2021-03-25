@@ -38,7 +38,7 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
           >
-        <img src="./header-logo.png" />
+        <img src="https://github.com/kjh-appro/fluid_from_ver2_gatsby-vapor/blob/main/src/components/header-logo.png" />
 </Link>
           <div className="nav-container">
             <ul className="header-nav">
