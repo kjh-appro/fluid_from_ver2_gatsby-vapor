@@ -24,6 +24,11 @@
     .header-container {
         flex-wrap: wrap;
     }
+
+    .header-title {
+        flex-wrap: wrap;
+    }
+    
     #header-nav-first {
         margin-left: 0em;
     }
@@ -40,10 +45,12 @@
 }
 
 .header-title {
-    width: 900px;
-    height: 243px;
+    width: 800px;
+    height: 216px;
     white-space: nowrap;
     visibility: visible;
+    align-items: center;
+    align-content: center;
  
 }
 
