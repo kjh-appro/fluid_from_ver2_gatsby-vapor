@@ -40,9 +40,11 @@
 }
 
 .header-title {
-    width: 400px;
-    height: 300px;
+    width: 220px;
+    height: 147px;
+    white-space: nowrap;
     visibility: visible;
+ 
 }
 
 .nav-container {
