@@ -35,7 +35,7 @@ class Layout extends Component {
     return (
       <div className="site-container">
         <div className="header-container">
-            <img  src={ headerimg } />
+        <img src={require('./content/assets/header-logo.png')}/>
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
