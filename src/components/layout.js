@@ -39,8 +39,10 @@ class Layout extends Component {
         <Link
             className="header-title"
             to={`/`}
-          ></Link>
-        { HeadLogo } 
+          >
+              { HeadLogo } 
+      </Link>
+
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
