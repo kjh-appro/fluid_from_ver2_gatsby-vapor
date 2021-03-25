@@ -40,9 +40,10 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
           >
-              <img src={ HeadLogo }
-    width= '300px'
-    height= '200px' />  
+              <img
+    src={ require('../components/header-logo.png') }
+    width='300px'
+    height='200px'/>
       </Link>
 
           <div className="nav-container">
