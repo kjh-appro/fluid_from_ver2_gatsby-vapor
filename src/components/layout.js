@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
-import { HeadLogo } from "../components/header-logo.png";
 
 class Layout extends Component {
   render() {
@@ -39,7 +38,7 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
           >
-        { HeadLogo }
+        <img src="../components/header-logo.png" />
 </Link>
           <div className="nav-container">
             <ul className="header-nav">
