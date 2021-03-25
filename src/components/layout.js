@@ -40,7 +40,7 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
           ></Link>
-        <img src="../header-logo.png" alt="fireSpot"/>
+        { HeadLogo } 
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
