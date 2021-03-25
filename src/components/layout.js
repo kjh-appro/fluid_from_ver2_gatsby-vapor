@@ -1,6 +1,8 @@
 import React, { Component } from "react";
-import { Link } from "gatsby"
-import { ThemeToggler } from "gatsby-plugin-dark-mode"
+import { Link } from "gatsby";
+import { ThemeToggler } from "gatsby-plugin-dark-mode";
+import { HeadLogo } from "../components/header-logo.png";
+
 
 class Layout extends Component {
   render() {
@@ -34,12 +36,16 @@ class Layout extends Component {
     return (
       <div className="site-container">
         <div className="header-container">
-          <Link
+        <Link
             className="header-title"
             to={`/`}
           >
-            {title}
-          </Link>
+              <img
+    src={ require('../components/header-logo.png') }
+    width='700px'
+    height='189px'/>
+      </Link>
+
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
@@ -52,31 +58,12 @@ class Layout extends Component {
             </ul>
           </div>
         </div>
-        <div ID="aside-bar" onClick="window.scrollTo(0,0);">
-        <li><a href="#">TOP1</a></li>
-        <li><a href="#">TOP2</a></li>
-          </div>
         <main>{children}</main>
-        <div className="footer">
-          <div className="dropup">
-          <button className="footerbtn">2009</button>
-          <div className="dropup-content">
-          <a href="#">2009.5.16</a> 
-          </div>
-          <button className="footerbtn">2011</button>
-          <div className="dropup-content">
-          <a href="#">2011.6.8-2012.2.28</a> 
-          <a href="#">2011.9.5-12.15</a>
-          </div>
-          <button className="footerbtn">2012</button>
-          <div className="dropup-content">
-          <a href="#">2012.4.3-10.12</a>  
-          <a href="#">2012.9.3-12.13</a> 
-          <a href="#">2012.5.14</a> 
-          <a href="#">2012.7.28</a> 
-          </div>
-        </div>
-        </div>
+        <footer className="footer-copyright">
+          © {new Date().getFullYear()} {title}, Built with
+          {` `}
+          <a className="footer-gatsby" href="https://www.gatsbyjs.org">Gatsby</a>
+        </footer>
       </div>
     )
   }
