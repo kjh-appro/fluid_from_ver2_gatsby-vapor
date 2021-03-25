@@ -35,12 +35,7 @@ class Layout extends Component {
     return (
       <div className="site-container">
         <div className="header-container">
-          <Link
-            className="header-title"
-            to={`/`}
-          >
             <img  src={ headerimg } />
-          </Link>
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
