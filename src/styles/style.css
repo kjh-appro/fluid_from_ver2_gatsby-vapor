@@ -51,6 +51,8 @@
     left: 0;
     right: 0;
     padding: 0.4em;
+    margin-top: -2em;
+    padding-top: -2em;
     margin-right: -56px;
     padding-right: -56px;
     color: black;
