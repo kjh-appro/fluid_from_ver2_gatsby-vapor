@@ -22,6 +22,7 @@
     align-items: center;
     align-content: center;
     padding-top: 56px;
+    max-width: 100%;
     left:0;
     right:0;
 }
@@ -87,9 +88,6 @@
 @media (max-width: 540px) 
 
 {
-    .header-container {
-        flex-wrap: wrap;
-    }
 
     .header-p1 {
         flex-wrap: wrap;
