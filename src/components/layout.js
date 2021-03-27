@@ -51,20 +51,17 @@ class Layout extends Component {
           </div>
           </div>
         <div className="header-container">
-          <div className="header-image">
+        
            <Link
             className="header-title"
             to={`/`}
            >
-            <source media="(max-width: 414)"
-           srcset={ require('../components/header-img_414.png') }
-           width='414'
-           height='112'/>
-              <img
-           src={ require('../components/header-logo.png') }
-           />
+            <p>
+              경계 내에 머무르거나 아니면 
+              내가 속한 곳으로 돌아가라는 말을 들었다 
+            </p>
            </Link>
-          </div>
+          
         </div>
         <main>{children}</main>
         <footer className="footer-copyright">
