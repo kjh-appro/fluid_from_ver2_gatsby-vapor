@@ -35,8 +35,9 @@
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: 0.8em;
+    margin-top: 2em;
     margin-right: -56px;
+    padding-right: -56px;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -50,8 +51,8 @@
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: -4em;
     margin-right: -56px;
+    padding-right: -56px;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -65,8 +66,8 @@
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: -2em;
     margin-right: -56px;
+    padding-right: -56px;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -80,8 +81,8 @@
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: -1em;
-    margin-right: -56px;
+    margin-right: -28px;
+    padding-right: -28px;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -95,8 +96,8 @@
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: 0em;
-    margin-right: -28px;
+    margin-right: -56px;
+    padding-right: -56px;
     color: black;
     font-size: 14pt;
     text-align: left;
