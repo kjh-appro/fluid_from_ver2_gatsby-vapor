@@ -29,7 +29,7 @@
 }
 
 .header-p1 {
-    display: flex;
+    Display: flex;
     width: 100%;
     white-space: nowrap;
     visibility: visible;
@@ -37,12 +37,12 @@
     align-content: center;
     left: 0;
     right: 0;
-    padding-top: 2.4em;
-    margin-top: 2.4em;
+    padding-top: 0em;
+    margin-top: 0em;
     color: black;
-    background-color: rgb(255, 48,0);
     font-size: 26pt;
     text-align: left;
+    background-color: rgb(255, 48,0);
 }
 
 .header-p2 {
@@ -87,17 +87,34 @@
     }
 }
 
-.header-p1, .header-p2 a {
+.header-p2 a {
     text-decoration: none;
     color: inherit;
 }
 
-.header-p1, .header-p2 div::selection,
-.header-p1, .header-p2 a::selection {
+.header-p2 div::selection,
+.header-p2 a::selection {
     background: transparent;
 }
 
-.header-p1, .header-p2 p {
+.header-p2 p {
+    text-decoration: none;
+    color: black;
+    font-size: 32pt;
+    text-align: left;
+}
+
+.header-p1 a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header-p1 div::selection,
+.header-p1 a::selection {
+    background: transparent;
+}
+
+.header-p1 p {
     text-decoration: none;
     color: black;
     font-size: 32pt;
@@ -114,7 +131,7 @@
     float: left;
     left: 0;
     right: 0;
-    margin-top: -0.9em;
+    margin-top: -2.4em;
     padding-top: 0.02em;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
