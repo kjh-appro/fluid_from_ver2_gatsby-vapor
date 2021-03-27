@@ -42,7 +42,8 @@ class Layout extends Component {
           >
               <img
            src={ require('../components/header-logo.png') }
-           />
+           width='700px'
+           height='189px'/>
            </Link>
 
           <div className="nav-container">
