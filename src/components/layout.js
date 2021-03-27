@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
-import { Dimensions } from 'react-native';
 
 
 class Layout extends Component {
@@ -57,7 +56,9 @@ class Layout extends Component {
             to={`/`}
           >
               <img
-         src={ require('../components/header-logo.png') }/>
+    src={ require('../components/header-logo.png') }
+    width='700px'
+    height='189px'/>
        </Link>
        </div>
       <main>{children}</main>
