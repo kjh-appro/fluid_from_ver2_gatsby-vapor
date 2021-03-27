@@ -51,7 +51,7 @@ class Layout extends Component {
           </div>
           </div>
         <div className="header-container">
-        
+        <div className="header-p">
            <Link
             className="header-title"
             to={`/`}
@@ -60,8 +60,11 @@ class Layout extends Component {
               경계 내에 머무르거나 아니면 
               내가 속한 곳으로 돌아가라는 말을 들었다 
             </p>
+            <p style="font-size: 17pt, text-algin: right">
+            (Fanon, 1986)
+            </p>
            </Link>
-          
+           </div>
         </div>
         <main>{children}</main>
         <footer className="footer-copyright">
