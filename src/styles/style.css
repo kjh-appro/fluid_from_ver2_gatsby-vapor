@@ -22,9 +22,7 @@
     align-items: center;
     align-content: center;
     padding-top: 56px;
-    width: 100%;
-    max-width:100%; 
-    max-height:100%;
+    max-width: 45rem;
     left:0;
     right:0;
 }
