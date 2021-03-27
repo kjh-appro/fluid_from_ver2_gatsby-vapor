@@ -23,20 +23,18 @@
     padding-top: 56px;
     left:0;
     right:0;
+    max-width: 100% !important;
+    height: auto !important;
 }
 
 
 @media (max-width: 100%) 
 
 {
-    .header-container {
-        flex-wrap: wrap;}
     #header-nav-first {
         margin-left: 0em;
     }
 }
-
-
 
 .header-menu-bar {
     display: flex;
