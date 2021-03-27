@@ -67,10 +67,11 @@ and (max-width: 428px)
     width: 100%;
     float: left;
     background-color: white;
+    text-decoration: rgb(255, 48,0);
     left: 0;
     right: 0;
     border: 0 0.0625em 0  solid var(--color-postcard);
-    box-shadow: 0 0.6em 0em var(--color-postcard);
+    box-shadow: 0 0.0625rem 0em var(--color-postcard);
  
 }
 
