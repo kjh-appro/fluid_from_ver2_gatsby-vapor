@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
-import { HeadLogo } from "../components/header-logo.png";
+import { Dimensions } from 'react-native';
 
 
 class Layout extends Component {
+  
   render() {
     const { title, children} = this.props
     const toggler = (
@@ -57,8 +58,7 @@ class Layout extends Component {
           >
               <img
          src={ require('../components/header-logo.png') }
-         width='700px'
-         height='189px'/>
+         style="max-width:100%; max-height:100%;"/>
        </Link>
        </div>
       <main>{children}</main>
