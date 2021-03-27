@@ -22,6 +22,7 @@
     align-items: center;
     align-content: center;
     max-width: 100%;
+    background-color: rgb(255, 48,0);
 }
 
 @media (max-width: 540px) 
@@ -59,6 +60,13 @@ and (max-width: 428px)
     background: transparent;
 }
 
+.header-container p {
+    text-decoration: none;
+    color: black;
+    font-size: 16pt;
+    text-align: left;
+}
+
 .header-menu-bar {
     display: flex;
     position: fixed;
@@ -70,7 +78,7 @@ and (max-width: 428px)
     left: 0;
     right: 0;
     margin-top: -0.9em;
-    padding: 0.03em;
+    padding-top: 0.02em;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
  
