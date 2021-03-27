@@ -50,7 +50,6 @@ class Layout extends Component {
             </ul>
           </div>
           </div>
-      <div className="header-container">
         <div className="header-p1">
            <Link
             className="header-title"
@@ -61,7 +60,7 @@ class Layout extends Component {
             </p>
            </Link>
            </div>
-          <div className="header-p2">
+      <div className="header-p2">
            <Link
             className="header-title"
             to={`/`}
@@ -71,7 +70,6 @@ class Layout extends Component {
             </p>
            </Link>
            </div>
-      </div>
         <main>{children}</main>
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
