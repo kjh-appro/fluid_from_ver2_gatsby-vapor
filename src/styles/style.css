@@ -30,7 +30,6 @@
 
 .header-p1 {
     display: flex;
-    position: relative;
     width: 100%;
     white-space: nowrap;
     visibility: visible;
@@ -41,13 +40,13 @@
     padding-top: 2.4em;
     margin-top: 2.4em;
     color: black;
+    background-color: rgb(255, 48,0);
     font-size: 26pt;
     text-align: left;
 }
 
 .header-p2 {
     display: flex;
-    position: relative;
     width: 100%;
     white-space: nowrap;
     visibility: visible;
@@ -55,11 +54,12 @@
     align-content: center;
     left: 0;
     right: 0;
-    padding-top: 2.4em;
-    margin-top: 2.4em;
+    padding-top: 0em;
+    margin-top: 0em;
     color: black;
     font-size: 26pt;
     text-align: left;
+    background-color: rgb(255, 48,0);
 }
 
 
@@ -71,6 +71,12 @@
         flex-wrap: wrap;
     }
 
+    .header-p1 {
+        flex-wrap: wrap;
+    }
+    .header-p2 {
+        flex-wrap: wrap;
+    }
     .header-title {
         flex-wrap: wrap;
     }
@@ -81,17 +87,17 @@
     }
 }
 
-.header-container a {
+.header-p1, .header-p2 a {
     text-decoration: none;
     color: inherit;
 }
 
-.header-container div::selection,
-.header-container a::selection {
+.header-p1, .header-p2 div::selection,
+.header-p1, .header-p2 a::selection {
     background: transparent;
 }
 
-.header-container p {
+.header-p1, .header-p2 p {
     text-decoration: none;
     color: black;
     font-size: 32pt;
@@ -363,4 +369,3 @@ article .tag-container a {
     color: inherit;
     font-size: 0.875em;
 }
-
