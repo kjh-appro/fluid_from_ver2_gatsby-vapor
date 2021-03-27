@@ -1,5 +1,6 @@
 @import "vars.css";
 @import "normalize.css";
+@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
 
 /* Layout */
 .contour {
@@ -117,8 +118,9 @@ and (max-width: 428px)
     padding-top: 2.4em;
     margin-top: 2.4em;
     color: black;
-    font-size: 32pt;
+    font-size: 26pt;
     text-align: left;
+    font-family: 'Jeju Myeongjo', serif;
 }
 
 @media (max-width: 540px) {
