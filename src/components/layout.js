@@ -57,9 +57,9 @@ class Layout extends Component {
             to={`/`}
            >
             <p>
-              <br>경계 내에 머무르거나 아니면</br>
-              <br>내가 속한 곳으로 돌아가라는 말을 들었다</br>
-              <br>(Fanon, 1986)</br>
+              <Text>경계 내에 머무르거나 아니면 </Text>
+              <Text>내가 속한 곳으로 돌아가라는 말을 들었다</Text>
+              <Text>(Fanon, 1986)</Text>
             </p>
            </Link>
            </div>
