@@ -158,7 +158,8 @@
     color: black;
     font-size: 26pt;
     text-align: left;
-    margin-top: -6em;
+    margin-top: -2em;
+    width: 100%;
 }
 
 .header-p1 a {
@@ -176,6 +177,7 @@
     color: black;
     font-size: 26pt;
     text-align: left;
+    width: 100%;
 }
 
 .header-p3 a {
@@ -193,7 +195,8 @@
     color: black;
     font-size: 26pt;
     text-align: left;
-    margin-top: -6em;
+    margin-top: -2em;
+    width: 100%;
 }
 
 .header-p4 a {
@@ -211,7 +214,8 @@
     color: black;
     font-size: 26pt;
     text-align: left;
-    margin-top: -6em;
+    margin-top: -2em;
+    width: 100%;
 }
 
 .header-p5 a {
@@ -229,7 +233,8 @@
     color: black;
     font-size: 14pt;
     text-align: left;
-    margin-top: -6em;
+    margin-top: -2em;
+    width: 100%;
 }
 
 .header-menu-bar {
