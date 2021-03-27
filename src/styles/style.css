@@ -30,14 +30,12 @@
 
 .header-p1 {
     display: flex;
+    justify-content: space-between;
     width: 100%;
-    visibility: visible;
-    align-items: center;
-    align-content: center;
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: 0em;
+    margin-top: 1em;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -46,14 +44,12 @@
 
 .header-p2 {
     display: flex;
+    justify-content: space-between;
     width: 100%;
-    visibility: visible;
-    align-items: center;
-    align-content: center;
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: -6em;
+    margin-top: 2em;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -62,14 +58,12 @@
 
 .header-p3 {
     display: flex;
+    justify-content: space-between;
     width: 100%;
-    visibility: visible;
-    align-items: center;
-    align-content: center;
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: -6em;
+    margin-top: 3em;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -78,14 +72,12 @@
 
 .header-p4 {
     display: flex;
+    justify-content: space-between;
     width: 100%;
-    visibility: visible;
-    align-items: center;
-    align-content: center;
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: -1em;
+    margin-top: 4em;
     color: black;
     font-size: 26pt;
     text-align: left;
@@ -94,15 +86,12 @@
 
 .header-p5 {
     display: flex;
+    justify-content: space-between;
     width: 100%;
-    white-space: nowrap;
-    visibility: visible;
-    align-items: center;
-    align-content: center;
     left: 0;
     right: 0;
     padding: 0.4em;
-    margin-top: -6em;
+    margin-top: 5em;
     color: black;
     font-size: 14pt;
     text-align: left;
