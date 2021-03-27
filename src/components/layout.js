@@ -41,20 +41,16 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
            >
-            <source media="(max-width: 540px)"
-            srcset={ require('../components/header-img_540.png') }
-           width='540px'
-           height='146px'/>
-            <source media="(max-width: 414px)"
+            <source media="(max-width: 414)"
            srcset={ require('../components/header-img_414.png') }
-           width='414px'
-           height='112px'/>
+           width='414'
+           height='112'/>
               <img
            src={ require('../components/header-logo.png') }
            width='700px'
            height='189px'/>
            </Link>
-           </div>
+          </div>
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
