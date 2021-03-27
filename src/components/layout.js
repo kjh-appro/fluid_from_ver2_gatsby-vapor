@@ -35,6 +35,19 @@ class Layout extends Component {
 
     return (
       <div className="site-container">
+      <div className="header-menu-bar">
+        <div className="nav-container">
+            <ul className="header-nav">
+              <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
+              <li><Link to={`/search`}>Search</Link></li>
+              <li>{toggler}</li>
+            </ul>
+            <ul className="header-link">
+              <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+              <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+            </ul>
+          </div>
+          </div>
         <div className="header-container">
           <div className="header-image">
            <Link
@@ -50,17 +63,6 @@ class Layout extends Component {
            width='490px'
            height='132px'/>
            </Link>
-          </div>
-          <div className="nav-container">
-            <ul className="header-nav">
-              <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
-              <li><Link to={`/search`}>Search</Link></li>
-              <li>{toggler}</li>
-            </ul>
-            <ul className="header-link">
-              <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-              <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-            </ul>
           </div>
         </div>
         <main>{children}</main>
