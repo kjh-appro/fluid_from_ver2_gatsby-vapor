@@ -55,9 +55,9 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
            >
-            <p>
+           
             경계 내에 머무르거나
-            </p>
+            
            </Link>
            </div>
            <div className="header-p2">
@@ -65,9 +65,9 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
            >
-            <p>
+           
             아니면
-            </p>
+            
            </Link>
            </div>
       <div className="header-p3">
@@ -75,9 +75,9 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
            >
-            <p>
+      
             내가 속한 곳으로 
-            </p>
+           
            </Link>
            </div>
            <div className="header-p4">
@@ -85,9 +85,9 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
            >
-            <p>
+            
             돌아가란다
-            </p>
+            
            </Link>
            </div>
            <div className="header-p5">
@@ -95,9 +95,9 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
            >
-            <p>
+            
             (Fanon, 1986)
-            </p>
+            
            </Link>
            </div>
         <main>{children}</main>
