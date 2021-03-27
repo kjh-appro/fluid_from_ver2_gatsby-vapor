@@ -69,6 +69,7 @@ and (max-width: 428px)
     left: 0;
     right: 0;
     margin-top: -0.9em;
+    padding-top: 0.9em;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
  
@@ -103,6 +104,7 @@ and (max-width: 428px)
     visibility: visible;
     align-items: center;
     align-content: center;
+    margin-top: 2.4em;
 }
 
 @media (max-width: 540px) {
@@ -131,7 +133,7 @@ and (max-width: 428px)
     display: flex;
     justify-content: flex-start;
     padding: 0em;
-    margin: 0.25rem 0em;
+    margin-left: 0.8em;
 }
 
 .header-link {
@@ -139,7 +141,7 @@ and (max-width: 428px)
     display: flex;
     justify-content: flex-end;
     padding: 0em;
-    margin: 0.25rem 0em;
+    margin-right: 0.8em;
 }
 
 .header-nav li {
