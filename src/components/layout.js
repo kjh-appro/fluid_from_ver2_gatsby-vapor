@@ -49,24 +49,54 @@ class Layout extends Component {
                 LinkedIn</a></li>
             </ul>
           </div>
-          </div>
+      </div>
         <div className="header-p1">
            <Link
             className="header-title"
             to={`/`}
            >
             <p>
-            경계 내에 머무르거나 아니면
+            경계 내에 머무르거나
             </p>
            </Link>
            </div>
-      <div className="header-p2">
+           <div className="header-p2">
            <Link
             className="header-title"
             to={`/`}
            >
             <p>
-            내가 속한 곳으로 돌아가라는 말을 들었다
+            아니면
+            </p>
+           </Link>
+           </div>
+      <div className="header-p3">
+           <Link
+            className="header-title"
+            to={`/`}
+           >
+            <p>
+            내가 속한 곳으로 
+            </p>
+           </Link>
+           </div>
+           <div className="header-p4">
+           <Link
+            className="header-title"
+            to={`/`}
+           >
+            <p>
+            돌아가란다
+            </p>
+           </Link>
+           </div>
+           <div className="header-p5">
+           <Link
+            className="header-title"
+            to={`/`}
+           >
+            <p>
+            (Fanon, 1986)
             </p>
            </Link>
            </div>
