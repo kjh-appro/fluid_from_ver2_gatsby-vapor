@@ -55,6 +55,22 @@ and (max-width: 428px)
     background: transparent;
 }
 
+.header-menu-bar {
+    display: flex;
+    position: fixed;
+    align-items: baseline;
+    text-align: center;
+    margin: 0px 0em;   
+    width: 100%;
+    float: left;
+    left: 0;
+    right: 0;
+    border: 0 0.0625em 0  solid var(--color-postcard);
+    border-radius: 0.3em;
+    box-shadow: 0 0.0625em 0em var(--color-postcard);
+ 
+}
+
 .header-title {
     width: 700px;
     height: 189px;
@@ -72,10 +88,6 @@ and (max-width: 428px)
     visibility: visible;
     align-items: center;
     align-content: center;
-    padding-right: 900px;
-    margin-right: 900px;
-    margin-left: 200px;
- 
 }
 
 @media (max-width: 540px) {
