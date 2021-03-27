@@ -18,8 +18,8 @@
 
 .header-container {
     display: flex;
-    align-items: baseline;
-    margin: 0px 0.5em;   
+    position: relative;
+    align-items: baseline; 
     align-items: center;
     align-content: center;
     width: 100%;
@@ -29,6 +29,8 @@
 }
 
 .header-p {
+    display: flex;
+    position: relative;
     width: 100%;
     white-space: nowrap;
     visibility: visible;
@@ -41,7 +43,6 @@
     color: black;
     font-size: 26pt;
     text-align: left;
-    font-family: var(--font-jeju);
 }
 
 
