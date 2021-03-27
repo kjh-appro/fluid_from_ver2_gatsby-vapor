@@ -50,67 +50,27 @@ class Layout extends Component {
             </ul>
           </div>
       </div>
-      <div className="header-p-box">
-        <div className="header-p1">
-           <Link
+      <div className="header-container">
+        <Link
             className="header-title"
             to={`/`}
-           >
-           
-            경계 내에 머무르거나
-            
-           </Link>
-           </div>
-           <div className="header-p2">
-           <Link
-            className="header-title"
-            to={`/`}
-           >
-           
-            아니면
-            
-           </Link>
-           </div>
-      <div className="header-p3">
-           <Link
-            className="header-title"
-            to={`/`}
-           >
-      
-            내가 속한 곳으로 
-           
-           </Link>
-           </div>
-           <div className="header-p4">
-           <Link
-            className="header-title"
-            to={`/`}
-           >
-            
-            돌아가라 한다
-            
-           </Link>
-           </div>
-           <div className="header-p5">
-           <Link
-            className="header-title"
-            to={`/`}
-           >
-            
-            (Fanon, 1986)
-            
-           </Link>
-           </div>
-           </div>
-        <main>{children}</main>
+          >
+              <img
+         src={ require('../components/header-logo.png') }
+         width='700px'
+         height='189px'/>
+       </Link>
+      <main>{children}</main>
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
           {` `}
           <a className="footer-gatsby" href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
+      </div>
     )
   }
 }
+
 
 export default Layout
