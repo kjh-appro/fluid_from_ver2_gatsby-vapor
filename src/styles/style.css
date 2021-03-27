@@ -63,7 +63,7 @@ and (max-width: 428px)
 .header-container p {
     text-decoration: none;
     color: black;
-    font-size: 16pt;
+    font-size: 32pt;
     text-align: left;
 }
 
@@ -106,14 +106,19 @@ and (max-width: 428px)
  
 }
 
-.header-image {
+.header-p {
     max-width: 100%;
     white-space: nowrap;
     visibility: visible;
     align-items: center;
     align-content: center;
+    left: 0;
+    right: 0;
     padding-top: 2.4em;
     margin-top: 2.4em;
+    color: black;
+    font-size: 32pt;
+    text-align: left;
 }
 
 @media (max-width: 540px) {
