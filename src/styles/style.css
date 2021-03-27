@@ -72,6 +72,9 @@ and (max-width: 428px)
     visibility: visible;
     align-items: center;
     align-content: center;
+    padding-right: 900px;
+    margin-right: 900px;
+    margin-left: 200px;
  
 }
 
