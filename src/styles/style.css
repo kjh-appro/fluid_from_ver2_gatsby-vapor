@@ -151,8 +151,9 @@
 .header-p2 p {
     text-decoration: none;
     color: black;
-    font-size: 32pt;
+    font-size: 26pt;
     text-align: left;
+    margin-top: -1em;
 }
 
 .header-p1 a {
@@ -168,7 +169,7 @@
 .header-p1 p {
     text-decoration: none;
     color: black;
-    font-size: 32pt;
+    font-size: 26pt;
     text-align: left;
 }
 
@@ -185,8 +186,9 @@
 .header-p3 p {
     text-decoration: none;
     color: black;
-    font-size: 32pt;
+    font-size: 26pt;
     text-align: left;
+    margin-top: -1em;
 }
 
 .header-p4 a {
@@ -202,8 +204,9 @@
 .header-p4 p {
     text-decoration: none;
     color: black;
-    font-size: 32pt;
+    font-size: 26pt;
     text-align: left;
+    margin-top: -1em;
 }
 
 .header-p5 a {
@@ -219,8 +222,9 @@
 .header-p5 p {
     text-decoration: none;
     color: black;
-    font-size: 32pt;
+    font-size: 14pt;
     text-align: left;
+    margin-top: -1em;
 }
 
 .header-menu-bar {
@@ -233,7 +237,7 @@
     float: left;
     left: 0;
     right: 0;
-    margin-top: -1.9em;
+    margin-top: -0.8em;
     padding-top: 0.02em;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
