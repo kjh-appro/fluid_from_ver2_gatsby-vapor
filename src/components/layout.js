@@ -40,6 +40,11 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
           >
+            <source media="(max-width: 540px)"
+          srcset={ require('../components/header-img_540.png') }
+           width='540px'
+           height='146px'/>
+>
               <img
            src={ require('../components/header-logo.png') }
            width='700px'
