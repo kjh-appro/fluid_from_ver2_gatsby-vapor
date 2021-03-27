@@ -60,13 +60,14 @@ class Layout extends Component {
          width='700px'
          height='189px'/>
        </Link>
+       </div>
       <main>{children}</main>
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
           {` `}
           <a className="footer-gatsby" href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
-      </div>
+      
       </div>
     )
   }
