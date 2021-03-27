@@ -57,7 +57,8 @@ class Layout extends Component {
             to={`/`}
           >
               <img
-         src={ require('../components/header-logo.png') }/>
+         src={ require('../components/header-logo.png') }
+         style="max-width:100%; max-height:100%;"/>
        </Link>
        </div>
       <main>{children}</main>
