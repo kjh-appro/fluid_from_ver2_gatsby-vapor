@@ -19,7 +19,10 @@
     display: flex;
     align-items: baseline;
     margin: 0px 0.5em;   
+    align-items: center;
+    align-content: center;
 }
+
 @media (max-width: 540px) 
 and (max-width: 480px) 
 and (max-width: 414px) 
@@ -63,12 +66,22 @@ and (max-width: 428px)
     margin: 0px 0em;   
     width: 100%;
     float: left;
+    background-color: white;
     left: 0;
     right: 0;
     border: 0 0.0625em 0  solid var(--color-postcard);
-    border-radius: 0.3em;
-    box-shadow: 0 0.0625em 0em var(--color-postcard);
+    box-shadow: 0 0.6em 0em var(--color-postcard);
  
+}
+
+.header-menu-bar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header-menu-bar div::selection,
+.header-menu-bar a::selection {
+    background: transparent;
 }
 
 .header-title {
