@@ -36,15 +36,14 @@ class Layout extends Component {
     return (
       <div className="site-container">
         <div className="header-container">
-        <Link
+         <Link
             className="header-title"
             to={`/`}
           >
               <img
-    src={ require('../components/header-logo.png') }
-    width='700px'
-    height='189px'/>
-      </Link>
+           src={ require('../components/header-logo.png') }
+           />
+           </Link>
 
           <div className="nav-container">
             <ul className="header-nav">
