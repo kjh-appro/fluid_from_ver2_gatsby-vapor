@@ -63,15 +63,14 @@ and (max-width: 428px)
     position: fixed;
     align-items: baseline;
     text-align: center;
-    margin-top: -10;
-    margin-bottom: 10;
-    padding-left: 5;
-    padding-right: 5;
+    padding-top: -10;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
     width: 100%;
     float: left;
     background-color: white;
-    margin-left: 0;
-    margin-right: 0;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
  
@@ -79,7 +78,7 @@ and (max-width: 428px)
 
 .header-menu-bar a {
     text-decoration: none;
-    color: black;
+    color: white;
     background-color: rgb(255, 48,0);
 }
 
