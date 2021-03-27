@@ -87,7 +87,7 @@ class Layout extends Component {
             to={`/`}
            >
             
-            돌아가란다
+            돌아가라 한다
             
            </Link>
            </div>
