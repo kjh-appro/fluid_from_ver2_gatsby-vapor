@@ -56,11 +56,11 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
            >
-            <Text>
+            <p>
                   경계 내에 머무르거나 아니면 {"\n"}
                   내가 속한 곳으로 돌아가라는 말을 들었다{"\n"}
                   (Fanon, 1986){"\n"}
-                  </Text>
+                  </p>
            </Link>
            </div>
       </div>
