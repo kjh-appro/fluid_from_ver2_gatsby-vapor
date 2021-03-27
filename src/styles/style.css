@@ -68,6 +68,8 @@
     left: 0;
     right: 0;
     padding: 0.4em;
+    margin-top: -4em;
+    padding-top: -4em;
     margin-right: -56px;
     padding-right: -56px;
     color: black;
@@ -244,7 +246,7 @@
     float: left;
     left: 0;
     right: 0;
-    margin-top: -4.5em;
+    margin-top: 0em;
     padding-top: 0.02em;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
