@@ -50,6 +50,7 @@ class Layout extends Component {
             </ul>
           </div>
       </div>
+      <div className="header-p-box">
         <div className="header-p1">
            <Link
             className="header-title"
@@ -99,6 +100,7 @@ class Layout extends Component {
             (Fanon, 1986)
             
            </Link>
+           </div>
            </div>
         <main>{children}</main>
         <footer className="footer-copyright">
