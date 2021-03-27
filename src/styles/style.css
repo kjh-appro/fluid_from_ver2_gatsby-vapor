@@ -21,6 +21,7 @@
     margin: 0px 0.5em;   
     align-items: center;
     align-content: center;
+    max-width: 100%;
 }
 
 @media (max-width: 540px) 
@@ -69,7 +70,7 @@ and (max-width: 428px)
     left: 0;
     right: 0;
     margin-top: -0.9em;
-    padding: 0.2em;
+    padding: 0.1em;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
  
@@ -98,8 +99,7 @@ and (max-width: 428px)
 }
 
 .header-image {
-    width: 700px;
-    height: 189px;
+    max-width: 100%;
     white-space: nowrap;
     visibility: visible;
     align-items: center;
