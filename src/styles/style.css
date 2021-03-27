@@ -68,7 +68,7 @@ and (max-width: 428px)
     float: left;
     left: 0;
     right: 0;
-    margin-top: -30em;
+    margin-top: -3em;
     border: 0 0.0625em 0  solid var(--color-postcard);
     box-shadow: 0 0.0625rem 0em var(--color-postcard);
  
@@ -77,6 +77,8 @@ and (max-width: 428px)
 .header-menu-bar a {
     text-decoration: none;
     color: black;
+    align-items: center;
+    text-align: center;
 }
 
 .header-menu-bar div::selection,
