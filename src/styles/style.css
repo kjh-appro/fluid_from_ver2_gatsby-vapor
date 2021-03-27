@@ -1,7 +1,17 @@
 @import "vars.css";
 @import "normalize.css";
-@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
 
+@font-face {
+    font-family: 'Jeju Myeongjo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.eot);
+    src: url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.eot?#iefix) format('embedded-opentype'),
+         url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.woff2) format('woff2'),
+         url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.woff) format('woff'),
+         url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.ttf) format('truetype');
+  }
+  
 /* Layout */
 .contour {
     border: 0em;
@@ -22,8 +32,10 @@
     margin: 0px 0.5em;   
     align-items: center;
     align-content: center;
-    max-width: 100%;
+    width: 100%;
     background-color: rgb(255, 48,0);
+    left:0;
+    right:0;
 }
 
 @media (max-width: 540px) 
