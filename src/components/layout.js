@@ -51,16 +51,24 @@ class Layout extends Component {
           </div>
           </div>
       <div className="header-container">
-        <div className="header-p">
+        <div className="header-p1">
            <Link
             className="header-title"
             to={`/`}
            >
-            <Text>
-            경계 내에 머무르거나 아니면 {"\n"}
-                  내가 속한 곳으로 돌아가라는 말을 들었다{"\n"}
-                  (Fanon, 1986){"\n"}
-            </Text>
+            <p>
+            경계 내에 머무르거나 아니면
+            </p>
+           </Link>
+           </div>
+          <div className="header-p2">
+           <Link
+            className="header-title"
+            to={`/`}
+           >
+            <p>
+            내가 속한 곳으로 돌아가라는 말을 들었다
+            </p>
            </Link>
            </div>
       </div>
