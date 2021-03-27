@@ -50,7 +50,8 @@ class Layout extends Component {
             </ul>
           </div>
           </div>
-          <div className="header-p">
+        <div className="header-container">
+        <div className="header-p">
            <Link
             className="header-title"
             to={`/`}
@@ -58,6 +59,7 @@ class Layout extends Component {
             <p>
               <br>경계 내에 머무르거나 아니면</br>
               <br>내가 속한 곳으로 돌아가라는 말을 들었다</br>
+              <br>(Fanon, 1986)</br>
             </p>
             <p style="font-size: 17pt, text-algin: right">
             <br></br> 
@@ -65,7 +67,6 @@ class Layout extends Component {
             </p>
            </Link>
            </div>
-        <div className="header-container">
         </div>
         <main>{children}</main>
         <footer className="footer-copyright">
