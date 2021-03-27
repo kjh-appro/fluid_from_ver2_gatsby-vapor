@@ -41,10 +41,13 @@ class Layout extends Component {
             to={`/`}
           >
             <source media="(max-width: 540px)"
-          srcset={ require('../components/header-img_540.png') }
+            srcset={ require('../components/header-img_540.png') }
            width='540px'
            height='146px'/>
->
+            <source media="(max-width: 414px)"
+           srcset={ require('../components/header-img_414.png') }
+           width='414px'
+           height='112px'/>
               <img
            src={ require('../components/header-logo.png') }
            width='700px'
