@@ -160,6 +160,7 @@
     list-style: none;
     padding: 0;
     margin-bottom: 20px;
+    color: black;
 }
 
 #footer li {
@@ -190,7 +191,6 @@
     display: block;
     position: absolute;
     margin: 0 0 0 -15px;
-    bottom: 40px;
     border: 1px solid rgb(0,0,0);
     border-bottom: none;
     background: rgba(0,0,0,0.5);
@@ -203,6 +203,7 @@ float: none;
 border: none;
 border-bottom: 1px solid rgb(0,0,0);
 padding: 12px 10px 12px 10px;
+color: black;
 
 }
 
