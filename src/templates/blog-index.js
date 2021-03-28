@@ -21,6 +21,7 @@ class BlogIndexTemplate extends React.Component {
     return (
       <Layout title={siteTitle}>
         <SEO title="Posts" />
+        <div className="site-container">
         {posts.map(({ node }) => {
           return (
             <PostCard
@@ -30,6 +31,9 @@ class BlogIndexTemplate extends React.Component {
             />
           )
         })}
+
+        </div>
+       
         {lastPage === 1 || 
         <div className="pagenator">
           {currentPage === 1
