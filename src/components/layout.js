@@ -53,36 +53,48 @@ class Layout extends Component {
        </Link>
        </div>
       <main>{children}</main>
-      <div className="footer">
-      <div className="dropup">
-          <button className="footerbtn1">2009-2015</button>
-          <div className="dropup-content1">
-          <a href="#">
-            2009.5.16</a> 
-          </div>
-          <button className="footerbtn2">2015-2020</button>
-          <div className="dropup-content2">
-          <a href="#">
-            2011.6.8-2012.2.28</a> 
-          <a href="#">
-            2011.9.5-12.15</a>
-    
-          </div>
-       
-          <button className="footerbtn3">2021-</button>
-          <div className="dropup-content3">
-          <a href="#">
-            2012.4.3-10.12</a>  
-          <a href="#">
-            2012.9.3-12.13</a> 
-          <a href="#">
-            2012.5.14</a> 
-          <a href="#">
-            2012.7.28</a> 
-         
-          </div>
+
+      <div id="footer">
+<ul>
+  <li>2009-2015</li>
+  </ul>
+<ul>
+  <li><a href="https://github.com/">2009.5.16</a></li>
+</ul>
+
+<ul>
+  <li>2015-2017</li>
+  </ul>
+<ul>
+  <li><a href="https://github.com/">2015.5.16</a></li>
+  <li><a href="https://github.com/">2017.5.16</a></li>
+</ul>
+
+<ul>
+  <li>2017-2021</li>
+  </ul>
+<ul>
+  <li><a href="https://github.com/">2017.6.8-2012.2.28</a></li>
+  <li><a href="https://github.com/">2017.9.5-12.15</a></li>
+  <li><a href="https://github.com/">2017.9.5-12.15</a></li>
+  <li><a href="https://github.com/">2017.9.5-12.15</a></li>
+</ul>
+
+<ul>
+  <li>2021-</li>
+  </ul>
+<ul>
+  <li><a href="https://github.com/">2021.6.8-2012.2.28</a></li>
+  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
+  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
+  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
+  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
+  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
+  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
+</ul>
+
         </div>
-        </div>
+
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
           {` `}
