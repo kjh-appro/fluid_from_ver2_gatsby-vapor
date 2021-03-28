@@ -25,7 +25,7 @@ class Layout extends Component {
     )
 
     return (
-      <div className="site-container">
+      <div className="site-container_front">
       <div className="header-menu-bar">
         <div className="nav-container">
             <ul className="header-nav">
