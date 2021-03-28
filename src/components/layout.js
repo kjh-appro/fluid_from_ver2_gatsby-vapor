@@ -54,8 +54,10 @@ class Layout extends Component {
        </div>
 
        <div ID="aside-bar">
-
-  <a href="https://github.com/">2009-2015</a><a href="https://github.com/">2015-2017</a><a href="https://github.com/">2017-2020</a><a href="https://github.com/">2021-</a>
+       <img
+    src={ require('../components/blue_dot.png') }
+    width='15px'
+    height='15px'/><a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
 
           </div>
       <main>{children}</main>
