@@ -166,7 +166,7 @@
 position: relative;
 display: inline-block;
 }
-.dropup-content {
+.dropup-content1 {
     display: none;
     position: absolute;
     bottom: 47px;
@@ -176,8 +176,31 @@ display: inline-block;
     width: 160px;
     z-index: 1;
   }  
+  .dropup-content2 {
+    display: none;
+    position: absolute;
+    bottom: 47px;
+    background-color: rgb(178, 178, 178);
+    color: black;
+    min-width: 160px;
+    width: 160px;
+    margin-left: 135px;
+    z-index: 1;
+  }  
+
+  .dropup-content3 {
+    display: none;
+    position: absolute;
+    bottom: 47px;
+    background-color: rgb(178, 178, 178);
+    color: black;
+    min-width: 160px;
+    width: 160px;
+    margin-left: 270px;
+    z-index: 1;
+  }
   
-.dropup-content a {
+.dropup-content1 a .dropup-content2 a .dropup-content3 a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -186,12 +209,12 @@ display: inline-block;
 
 
   /* Change color of dropup links on hover */
-.dropup-content a:hover {
+.dropup-content1 .dropup-content2 .dropup-content3  a:hover {
     background-color: rgb(202, 255, 204);
 }
 
 /* Show the dropup menu on hover */
-.dropup:hover .dropup-content {
+.dropup:hover .dropup-content .dropup-content1 .dropup-content2 .dropup-content3 {
   display: block;
 }
 
