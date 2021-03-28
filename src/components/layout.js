@@ -56,20 +56,27 @@ class Layout extends Component {
       <div className="footer">
       <div className="dropup">
           <button className="footerbtn">2009</button>
-          <div className="dropup-content">
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">2009.5.16</a> 
+          <div className="dropup-content-1">
+          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+            2009.5.16</a> 
           </div>
           <button className="footerbtn">2011</button>
-          <div className="dropup-content">
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">2011.6.8-2012.2.28</a> 
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">2011.9.5-12.15</a>
+          <div className="dropup-content-2">
+          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+            2011.6.8-2012.2.28</a> 
+          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+            2011.9.5-12.15</a>
           </div>
           <button className="footerbtn">2012</button>
-          <div className="dropup-content">
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">2012.4.3-10.12</a>  
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">2012.9.3-12.13</a> 
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">2012.5.14</a> 
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">2012.7.28</a> 
+          <div className="dropup-content-3">
+          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+            2012.4.3-10.12</a>  
+          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+            2012.9.3-12.13</a> 
+          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+            2012.5.14</a> 
+          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+            2012.7.28</a> 
           </div>
         </div>
         </div>
