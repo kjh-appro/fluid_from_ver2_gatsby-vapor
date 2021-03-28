@@ -127,6 +127,27 @@
     cursor: pointer;
 }
 
+#aside-bar {
+    background-color: rgb(178, 178, 178);
+    position: fixed;
+    width: 150px;
+    height: auto;
+    display: block;
+    top: 50%;
+    left:0;
+    float:left;
+    cursor: pointer;
+  }
+
+#aside-bar li ul {
+
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+    color: black;
+
+}
+
 /* Layout-Footer */
 .footer-copyright {
     text-align: center;
@@ -474,4 +495,3 @@ article .tag-container a {
     color: inherit;
     font-size: 0.875em;
 }
-
