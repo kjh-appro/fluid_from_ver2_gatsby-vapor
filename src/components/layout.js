@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
 
-
 class Layout extends Component {
   
   render() {
