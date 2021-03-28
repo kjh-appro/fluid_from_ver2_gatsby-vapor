@@ -154,7 +154,23 @@
     display: block;
 }
 
-.footerbtn{
+.footerbtn1{
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    background-color: transparent !important;
+}
+
+.footerbtn2{
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    background-color: transparent !important;
+}
+
+.footerbtn3{
     color: black;
     padding: 16px;
     font-size: 16px;
