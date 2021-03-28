@@ -128,20 +128,22 @@
 }
 
 #aside-bar {
-    background-color: rgb(178, 178, 178);
+    background-color: rgb(202, 255, 204);
     position: fixed;
-    width: 150px;
+    width: 40px;
     height: auto;
     display: block;
-    top: 50%;
-    left:0;
+    writing-mode: vertical-rl;
+    color: rgb(25, 27, 127);
+    top: 5%;
+    right:0;
     float:left;
     cursor: pointer;
   }
 
 #aside-bar li ul {
 
-    list-style: none;
+    list-style: none !important;
     padding: 0;
     margin-bottom: 20px;
     color: black;
