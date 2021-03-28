@@ -7,6 +7,22 @@ class Layout extends Component {
   
   render() {
     const { title, children} = this.props
+    const toggler = (
+      <div className="toggler">
+        <ThemeToggler>{({ theme, toggleTheme }) => (
+          <label className="tog">
+            <input
+              type="checkbox"
+              onChange={e =>
+                toggleTheme(e.target.checked ? "dark" : "light")
+              }
+              checked={theme === "dark"}
+              className="tog-checkbox"
+            />
+          </label>
+        )}</ThemeToggler>
+      </div>
+    )
 
     return (
       <div className="site-container">
