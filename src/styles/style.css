@@ -155,8 +155,6 @@
     margin-bottom: 0em;
     margin-top: 0.75em;
     background-color: white;
-    border-radius: 0.625em;
-    border: 0.0625em solid var(--color-font);
     
 }
 .post-card small {
@@ -177,7 +175,7 @@
     text-align: center;
     background-color: white;
     border-radius: 0.625em;
-    border: 0.0625em solid var(--color-font);
+    border: 0em solid var(--color-font);
 }
 .post-header h1 {
     font-size: 3em;
