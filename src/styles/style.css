@@ -140,7 +140,7 @@
     text-decoration: none;
     color: white;
 }
-.footer {
+#footer {
     position: fixed;
     height: 43px;
     left: 0;
@@ -153,6 +153,58 @@
 	color: black;
 	background-color:rgb(178, 178, 178);
     display: block;
+}
+
+#footer li ul {
+
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+#footer li {
+
+    list-style: none;
+    float: left;
+    font-size: 16px;
+    padding: 12px 14px 14px 14px;
+    color: black;
+    border-right: 1px solid rgba(0,0,0,0.4);
+    background-color: rgb(178, 178, 178);
+}
+
+#footer li:hover {
+ 
+    background-color: rgb(202, 255, 204);
+
+}
+
+#footer li ul.dropupMenu{
+
+    display: none;
+
+}
+
+#footer li:hover ul.dropupMenu{
+
+    display: block;
+    position: absolute;
+    margin: 0 0 0 -15px;
+    bottom: 40px;
+    border: 1px solid rgb(0,0,0);
+    border-bottom: none;
+    background: rgba(0,0,0,0.5;
+
+}
+
+#footer li:hover li {
+
+float: none;
+background: none;
+border: none;
+border-bottom: 1px solid rgb(0,0,0);
+padding: 12px 10px 12px 10px;
+
 }
 
 .footerbtn1{
@@ -343,6 +395,7 @@ display: inline-block;
     justify-content: space-between;
     margin-bottom: 1em;
     font-size: 0.875em;
+    color: white;
 }
 .pagenator-link svg {
     fill: var(--color-font);
@@ -353,6 +406,7 @@ display: inline-block;
 .pagenator div::selection,
 .pagenator a::selection {
     background: transparent;
+    color: white;
 }
 
 .pagenator svg {
@@ -404,11 +458,11 @@ display: inline-block;
 }
 .post-nav-prev {
     margin-left: 0.125rem;
-    color: white;
+    color: white !important;
 }
 .post-nav-next {
     margin-right: 0.125rem;
-    color: white;
+    color: white !important;
 }
 
 article .tag-container {
