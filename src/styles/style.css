@@ -132,6 +132,7 @@
     text-align: center;
     font-size: 0.875em;
     margin-bottom: 40px;
+    padding-bottom: 22px;
 }
 
 .footer-gatsby {
@@ -147,7 +148,7 @@
     width: 100%;
 	padding-top: 0px;
     margin-top: 30px;
-    margin-bottom: -1.04em;
+    margin-bottom: -0.07em;
 	color: black;
 	background-color:rgb(178, 178, 178);
     display: block;
@@ -157,7 +158,8 @@
     color: black;
     padding: 16px;
     font-size: 16px;
-    border: none
+    border: none;
+    width: 287px;
 }
 
 .dropup {
@@ -166,12 +168,13 @@ display: inline-block;
 }
 .dropup-content {
     display: none;
-    position: absolute;
-    bottom: 0px;
+    position: relative;
+    bottom: 70px;
     background-color: rgb(178, 178, 178);
     color: black;
     min-width: 160px;
     z-index: 1;
+    width: 287px;
   }  
   
 .dropup-content a {
@@ -183,7 +186,9 @@ display: inline-block;
 
 
   /* Change color of dropup links on hover */
-.dropup-content a:hover {}
+.dropup-content a:hover {
+    background-color: rgb(202, 255, 204);
+}
 
 /* Show the dropup menu on hover */
 .dropup:hover .dropup-content {
