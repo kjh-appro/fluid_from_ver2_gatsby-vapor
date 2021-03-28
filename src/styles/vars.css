@@ -21,14 +21,14 @@ body.light {
   --color-font: rgba(0, 0, 0, 0.8);
   --color-postcard: rgba(0, 0, 0, 0.1);
 
-  --color-blue: rgb(0, 122, 255);
+  --color-blue: rgb(25, 27, 127);
   --color-green: rgb(52, 199, 89);
   --color-indigo: rgb(88, 86, 214);
   --color-orange: rgb(255, 149, 0);
   --color-pink: rgb(255, 45, 85);
   --color-purple: rgb(175, 82, 222);
   --color-red: rgb(255, 59, 48);
-  --color-teal: rgb(90, 200, 250);
+  --color-teal: rgb(25, 27, 127);
   --color-yellow: rgb(255, 204, 0);
   --color-gray-1: rgb(142, 142, 147);
   --color-gray-2: rgb(174, 174, 178);
@@ -43,7 +43,7 @@ body.dark {
   --color-font: rgba(255, 255, 255, 0.8);
   --color-postcard: rgba(255, 255, 255, 0.1);
 
-  --color-blue: rgb(10, 132, 255);
+  --color-blue: rgb(25, 27, 127);
   --color-green: rgb(48, 209, 88);
   --color-indigo: rgb(94, 92, 230);
   --color-orange: rgb(255, 159, 10);
