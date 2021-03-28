@@ -55,10 +55,7 @@ class Layout extends Component {
 
        <div ID="aside-bar">
 
-  <li><a href="https://github.com/">2009-2015</a></li>
-  <li><a href="https://github.com/">2015-2017</a></li>
-  <li><a href="https://github.com/">2017-2020</a></li>
-  <li><a href="https://github.com/">2021-</a></li>
+  <a href="https://github.com/">2009-2015</a><a href="https://github.com/">2015-2017</a><a href="https://github.com/">2017-2020</a><a href="https://github.com/">2021-</a>
 
           </div>
       <main>{children}</main>
