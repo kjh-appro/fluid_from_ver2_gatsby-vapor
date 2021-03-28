@@ -130,12 +130,14 @@
 #aside-bar {
     background-color: rgb(202, 255, 204);
     position: fixed;
-    width: 37px;
-    height: auto;
+    width: 33px;
+    height: 100%;
     display: block;
     writing-mode: vertical-rl;
     color: rgb(25, 27, 127);
-    top: 10%;
+    top: 0;
+    bottom: 0;
+    padding-top: 40px;
     right:0;
     float:left;
     cursor: pointer;
@@ -144,7 +146,7 @@
 #aside-bar a {
     text-decoration: none;
    }
-   
+
 
 #aside-bar li ul {
 
