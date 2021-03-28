@@ -145,7 +145,8 @@
     bottom: 0;
     width: 100%;
 	padding-top: 0px;
-    margin-bottom: -2em;
+    margin-top: 30px;
+    margin-bottom: -1.5em;
 	color: black;
 	background-color:rgb(178, 178, 178);
     display: block;
@@ -190,7 +191,6 @@ display: inline-block;
 
 /* Change the background color of the dropup button when the dropup content is shown */
 .dropup:hover .dropbtn {
-  background-color:  rgb(178, 178, 178);
 }
 
 /* Postcard*/
