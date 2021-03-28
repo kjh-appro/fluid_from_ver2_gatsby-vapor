@@ -193,14 +193,13 @@
     bottom: 40px;
     border: 1px solid rgb(0,0,0);
     border-bottom: none;
-    background: rgba(0,0,0,0.5;
+    background: rgba(0,0,0,0.5);
 
 }
 
 #footer li:hover li {
 
 float: none;
-background: none;
 border: none;
 border-bottom: 1px solid rgb(0,0,0);
 padding: 12px 10px 12px 10px;
