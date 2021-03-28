@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
 
+
 class Layout extends Component {
   
   render() {
@@ -67,6 +68,7 @@ class Layout extends Component {
           </div>
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
         <li><a href="#">TOP</a></li>
+        </div>
       <main>{children}</main>
 
         <footer className="footer-copyright">
@@ -75,7 +77,7 @@ class Layout extends Component {
           <a className="footer-gatsby" href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       
-      </div>
+      
       </div>
     )
   }
