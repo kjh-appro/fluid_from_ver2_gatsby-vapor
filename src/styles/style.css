@@ -139,14 +139,15 @@
 }
 .footer {
     position: fixed;
+    height: 43px;
     left: 0;
     right: 0;
     bottom: 0;
     width: 100%;
-    height: 100px;
-	padding: 0;
+	padding-top: 30px;
+    margin-bottom: -1em;
 	color: black;
-	background-color: gray;
+	background-color:rgb(178, 178, 178);
     display: block;
 }
 
@@ -165,7 +166,7 @@ display: inline-block;
     display: none;
     position: absolute;
     bottom: 200px;
-    background-color: grey;
+    background-color: rgb(178, 178, 178);
     color: black;
     min-width: 160px;
     z-index: 1;
@@ -180,7 +181,7 @@ display: inline-block;
 
 
   /* Change color of dropup links on hover */
-.dropup-content a:hover {background-color: #ddd}
+.dropup-content a:hover {background-color: rgb(178, 178, 178)}
 
 /* Show the dropup menu on hover */
 .dropup:hover .dropup-content {
