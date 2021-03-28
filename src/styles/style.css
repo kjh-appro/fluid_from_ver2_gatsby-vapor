@@ -130,17 +130,18 @@
 #aside-bar {
     background-color: rgb(202, 255, 204);
     position: fixed;
-    width: 33px;
-    height: 100%;
+    width: 31px;
+    height: auto;
     display: block;
     writing-mode: vertical-rl;
     color: rgb(25, 27, 127);
-    top: 0;
+    top: 15%;
     bottom: 0;
     padding-top: 40px;
     right:0;
     float:left;
     cursor: pointer;
+    font-size: font-size: 0.875em;
   }
 
 #aside-bar a {
@@ -160,6 +161,10 @@
 #aside-bar li ul a {
  text-decoration: none;
 }
+
+#aside-bar:hover li ul {
+    text-decoration: none;
+   }
 
 /* Layout-Footer */
 .footer-copyright {
