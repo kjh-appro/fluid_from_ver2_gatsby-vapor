@@ -179,7 +179,6 @@ display: inline-block;
 .dropup-content-2 {
     display: none;
     position: absolute;
-    left: 135px;
     bottom: 47px;
     background-color: rgb(178, 178, 178);
     color: black;
@@ -190,7 +189,6 @@ display: inline-block;
 .dropup-content-3 {
     display: none;
     position: absolute;
-    left: 270px;
     bottom: 47px;
     background-color: rgb(178, 178, 178);
     color: black;
