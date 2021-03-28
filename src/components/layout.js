@@ -57,8 +57,8 @@ class Layout extends Component {
           >
               <img
     src={ require('../components/header-logo_2.png') }
-    width='400px'
-    height='211px'/>
+    width='270px'
+    height='142px'/>
        </Link>
        </div>
       <main>{children}</main>
