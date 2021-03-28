@@ -8,7 +8,6 @@
     background-color: white;
 }
 
-
 .site-container {
     margin: auto;
     max-width: 45rem;
@@ -130,7 +129,7 @@
 
 #aside-bar {
     background-color: transparent;
-    position: absolute;
+    display: flex;
     width: 31px;
     height: auto;
     display: block;
@@ -147,28 +146,30 @@
 
 #aside-bar a {
     text-decoration: none !important;
-    color: white;
+    color: rgb(202, 255, 204);
    }
 
 
-#aside-bar li ul {
+#aside-bar li  {
 
     list-style: none !important;
     text-decoration: none !important;
     padding: 0;
     margin-bottom: 20px;
-    color: white;
+    color: rgb(202, 255, 204);
 
 }
 
-#aside-bar li ul a {
+#aside-bar li a {
     list-style: none !important;
     text-decoration: none !important;
+    color: rgb(202, 255, 204);
 }
 
-#aside-bar:hover li ul {
+#aside-bar:hover li {
     list-style: none !important;
     text-decoration: none !important;
+    color: rgb(202, 255, 204);
    }
 
 #top-btn {
