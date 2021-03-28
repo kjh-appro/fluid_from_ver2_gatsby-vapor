@@ -128,14 +128,14 @@
 }
 
 #aside-bar {
-    background-color: rgb(202, 255, 204);
-    position: fixed;
+    background-color: transparent;
+    position: absolute;
     width: 31px;
     height: auto;
     display: block;
     writing-mode: vertical-rl;
-    color: rgb(25, 27, 127);
-    top: 15%;
+    color: white;
+    top: 7%;
     bottom: 0;
     padding-top: 40px;
     right:0;
@@ -145,25 +145,71 @@
   }
 
 #aside-bar a {
-    text-decoration: none;
+    text-decoration: none !important;
+    color: white;
    }
 
 
 #aside-bar li ul {
 
     list-style: none !important;
+    text-decoration: none !important;
     padding: 0;
     margin-bottom: 20px;
-    color: black;
+    color: white;
 
 }
 
 #aside-bar li ul a {
- text-decoration: none;
+    list-style: none !important;
+    text-decoration: none !important;
 }
 
 #aside-bar:hover li ul {
-    text-decoration: none;
+    list-style: none !important;
+    text-decoration: none !important;
+   }
+
+#top-btn {
+    background-color: rgb(202, 255, 204);
+    position: fixed;
+    width: 31px;
+    height: auto;
+    display: block;
+    writing-mode: vertical-rl;
+    color: rgb(25, 27, 127);
+    right: 0;
+    bottom: 0;
+    padding: 1;
+    float:left;
+    cursor: pointer;
+    font-size: 0.875em;
+  }
+
+#aside-bar a {
+    text-decoration: none !important;
+    color: rgb(25, 27, 127);
+   }
+
+
+#aside-bar li ul {
+
+    list-style: none !important;
+    text-decoration: none !important;
+    padding: 0;
+    margin-bottom: 20px;
+    color: rgb(25, 27, 127);
+
+}
+
+#aside-bar li ul a {
+    list-style: none !important;
+    text-decoration: none !important;
+}
+
+#aside-bar:hover li ul {
+    list-style: none !important;
+    text-decoration: none !important;
    }
 
 /* Layout-Footer */
