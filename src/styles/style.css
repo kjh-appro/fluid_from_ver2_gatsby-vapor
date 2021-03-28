@@ -148,7 +148,7 @@
     width: 100%;
 	padding-top: 0px;
     margin-top: 30px;
-    margin-bottom: -0.07em;
+    margin-bottom: -0.09em;
 	color: black;
 	background-color:rgb(178, 178, 178);
     display: block;
@@ -159,7 +159,8 @@
     padding: 16px;
     font-size: 16px;
     border: none;
-    width: 287px;
+    width: 160px;
+    background-color: rgb(239, 239, 239);
 }
 
 .dropup {
@@ -168,13 +169,13 @@ display: inline-block;
 }
 .dropup-content {
     display: none;
-    position: relative;
+    position: absolute;
     bottom: 70px;
     background-color: rgb(178, 178, 178);
     color: black;
     min-width: 160px;
     z-index: 1;
-    width: 287px;
+    width: 160px;
   }  
   
 .dropup-content a {
