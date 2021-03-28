@@ -51,13 +51,18 @@ class Layout extends Component {
     width='219px'
     height='229px'/>
        </Link>
+       <img
+    src={ require('../components/sns_t.png') }
+    width='15px'
+    height='15px'/>
+    <img
+    src={ require('../components/sns_y.png') }
+    width='15px'
+    height='15px'/>
        </div>
 
        <div ID="aside-bar">
        <li><a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
-</li>
-<li>
-  <a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
 </li>
 <li>
   <a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
