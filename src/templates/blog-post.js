@@ -1,7 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Tags from "../components/tags"
@@ -20,6 +19,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
+        <div className="site-container">
         <hr className="contour"/>
         <article>
           <header className="post-header">
@@ -38,6 +38,8 @@ class BlogPostTemplate extends React.Component {
           <Tags tags={post.frontmatter.tags}/>
         </article>
         <hr className="contour"/>
+        </div>
+        
         <nav>
           <ul className="post-nav">
             <li>
@@ -64,6 +66,7 @@ class BlogPostTemplate extends React.Component {
         </nav>
       </Layout>
     )
+    
   }
 }
 
