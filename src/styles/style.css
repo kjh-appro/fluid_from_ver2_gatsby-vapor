@@ -131,6 +131,7 @@
 .footer-copyright {
     text-align: center;
     font-size: 0.875em;
+    margin-bottom: 40px;
 }
 
 .footer-gatsby {
@@ -146,7 +147,7 @@
     width: 100%;
 	padding-top: 0px;
     margin-top: 30px;
-    margin-bottom: -1.5em;
+    margin-bottom: -1.04em;
 	color: black;
 	background-color:rgb(178, 178, 178);
     display: block;
@@ -166,7 +167,7 @@ display: inline-block;
 .dropup-content {
     display: none;
     position: absolute;
-    bottom: 200px;
+    bottom: 0px;
     background-color: rgb(178, 178, 178);
     color: black;
     min-width: 160px;
@@ -182,7 +183,7 @@ display: inline-block;
 
 
   /* Change color of dropup links on hover */
-.dropup-content a:hover {background-color: rgb(178, 178, 178)}
+.dropup-content a:hover {}
 
 /* Show the dropup menu on hover */
 .dropup:hover .dropup-content {
