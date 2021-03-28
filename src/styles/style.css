@@ -170,11 +170,10 @@ display: inline-block;
 .dropup-content {
     display: none;
     position: absolute;
-    bottom: 70px;
+    bottom: 32px;
     background-color: rgb(178, 178, 178);
     color: black;
     min-width: 160px;
-    z-index: 1;
     width: 160px;
   }  
   
