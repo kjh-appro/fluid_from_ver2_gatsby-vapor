@@ -51,14 +51,6 @@ class Layout extends Component {
     width='219px'
     height='229px'/>
        </Link>
-       <img
-    src={ require('../components/sns_t.png') }
-    width='15px'
-    height='15px'/>
-    <img
-    src={ require('../components/sns_y.png') }
-    width='15px'
-    height='15px'/>
        </div>
 
        <div ID="aside-bar">
