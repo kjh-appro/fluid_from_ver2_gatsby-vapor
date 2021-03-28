@@ -12,6 +12,13 @@
     margin: auto;
     padding: auto;
     max-width: 45rem;
+    background-color: white;
+}
+
+.site-container_front {
+    margin: auto;
+    padding: auto;
+    max-width: 45rem;
 }
 
 /* Layout-Header */
@@ -155,6 +162,7 @@
     margin-bottom: 0em;
     margin-top: 0.75em;
     background-color: white;
+
     
 }
 .post-card small {
@@ -175,7 +183,7 @@
     text-align: center;
     background-color: white;
     border-radius: 0.625em;
-    border: 0em solid var(--color-font);
+    border: 0.0625em solid var(--color-font);
 }
 .post-header h1 {
     font-size: 3em;
