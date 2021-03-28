@@ -55,20 +55,20 @@ class Layout extends Component {
       <main>{children}</main>
       <div className="footer">
       <div className="dropup">
-          <button className="footerbtn">2009</button>
-          <div className="dropup-content">
+          <button className="footerbtn">2009-2015</button>
+          <div className="dropup-content1">
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
             2009.5.16</a> 
           </div>
-          <button className="footerbtn">2011</button>
-          <div className="dropup-content">
+          <button className="footerbtn">2015-2020</button>
+          <div className="dropup-content2">
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
             2011.6.8-2012.2.28</a> 
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
             2011.9.5-12.15</a>
           </div>
-          <button className="footerbtn">2012</button>
-          <div className="dropup-content">
+          <button className="footerbtn">2021-</button>
+          <div className="dropup-content3">
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
             2012.4.3-10.12</a>  
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
