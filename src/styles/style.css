@@ -145,6 +145,7 @@
     margin-top: 0em;
     margin-bottom: 0em;
     letter-spacing: -0.025em;
+    background-color: white;
 }
 .post-card a {
     text-decoration: none;
@@ -170,34 +171,37 @@
 
 .post-header {
     text-align: center;
+    background-color: white;
 }
 .post-header h1 {
     font-size: 3em;
     letter-spacing: -0.025em;
     margin-top: 0.8125em;
     margin-bottom: 0em;
+    background-color: white;
     
 }
 .post-header p {
     font-size: 0.8125em;
     margin-top: 0.8125em;
+    background-color: white;
 }
 
 .search-box-container {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: white;
 }
 .search-box {
     margin: 2em auto;
     width: 35%;
     border-radius: 0.625em;
     border: 0.0625em solid var(--color-font);
-    box-shadow: 0 0.0625em 0.25em var(--color-postcard);
     padding: 0.8125em;
     font-family: inherit;
     color: inherit;
-    background-color: transparent;
+    background-color: white;
     
 }
 .search-box:focus {
@@ -211,14 +215,15 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    background-color: white;
 }
 
 .tag-archive-item {
     border: 0.0625em solid var(--color-postcard);
     border-radius: 0.3em;
-    box-shadow: 0 0.0625em 0.25em var(--color-postcard);
     margin: 0.5em;
     padding: 0.2em 0.6em;
+    background-color: white;
     
 }
 .tag-archive-link {
