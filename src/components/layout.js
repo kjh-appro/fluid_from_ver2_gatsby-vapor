@@ -52,25 +52,9 @@ class Layout extends Component {
     height='229px'/>
        </Link>
        </div>
-      <main>{children}</main>
 
-      <div id="footer">
-<ul>
-  <li>2009-2015</li>
-  </ul>
-<ul>
-  <li><a href="https://github.com/">2009.5.16</a></li>
-</ul>
-
-<ul>
-  <li>2015-2017</li>
-  </ul>
-<ul>
-  <li><a href="https://github.com/">2015.5.16</a></li>
-  <li><a href="https://github.com/">2017.5.16</a></li>
-</ul>
-
-<ul>
+       <div ID="aside-bar">
+       <ul>
   <li>2017-2021</li>
   </ul>
 <ul>
@@ -79,21 +63,8 @@ class Layout extends Component {
   <li><a href="https://github.com/">2017.9.5-12.15</a></li>
   <li><a href="https://github.com/">2017.9.5-12.15</a></li>
 </ul>
-
-<ul>
-  <li>2021-</li>
-  </ul>
-<ul>
-  <li><a href="https://github.com/">2021.6.8-2012.2.28</a></li>
-  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
-  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
-  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
-  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
-  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
-  <li><a href="https://github.com/">2021.9.5-12.15</a></li>
-</ul>
-
-        </div>
+          </div>
+      <main>{children}</main>
 
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
@@ -105,5 +76,6 @@ class Layout extends Component {
     )
   }
 }
+
 
 export default Layout
