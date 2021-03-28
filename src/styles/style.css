@@ -5,13 +5,14 @@
 .contour {
     border: 0em;
     height: 0.0625rem;
-    background-color: var(--color-gray-2);
+    background-color: white;
 }
 
 .site-container {
     margin: auto;
     padding: auto;
     max-width: 45rem;
+    background-color: white;
 }
 
 /* Layout-Header */
