@@ -67,7 +67,7 @@ class Layout extends Component {
 </li>
           </div>
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
-        <li><a href="#">TOP</a></li>
+        <a href="#">TOP</a>
         </div>
       <main>{children}</main>
 
