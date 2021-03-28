@@ -54,12 +54,12 @@ class Layout extends Component {
        </div>
 
        <div ID="aside-bar">
-<ul>
+
   <li><a href="https://github.com/">2009-2015</a></li>
   <li><a href="https://github.com/">2015-2017</a></li>
   <li><a href="https://github.com/">2017-2020</a></li>
   <li><a href="https://github.com/">2021-</a></li>
-</ul>
+
           </div>
       <main>{children}</main>
 
