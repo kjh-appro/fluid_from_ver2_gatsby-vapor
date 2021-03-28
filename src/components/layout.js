@@ -60,6 +60,8 @@ class Layout extends Component {
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
             2009.5.16</a> 
           </div>
+          </div>
+      <div className="dropup">
           <button className="footerbtn2">2015-2020</button>
           <div className="dropup-content2">
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
@@ -67,6 +69,8 @@ class Layout extends Component {
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
             2011.9.5-12.15</a>
           </div>
+          </div>
+          <div className="dropup">
           <button className="footerbtn3">2021-</button>
           <div className="dropup-content3">
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
@@ -78,7 +82,8 @@ class Layout extends Component {
           <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
             2012.7.28</a> 
           </div>
-        </div>
+          </div>
+        
         </div>
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
