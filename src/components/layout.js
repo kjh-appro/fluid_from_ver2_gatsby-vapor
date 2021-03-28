@@ -53,6 +53,7 @@ class Layout extends Component {
        </Link>
        </div>
       <main>{children}</main>
+      <div className="footer">
       <div className="dropup">
           <button className="footerbtn">2009</button>
           <div className="dropup-content">
@@ -70,6 +71,7 @@ class Layout extends Component {
           <a href="#">2012.5.14</a> 
           <a href="#">2012.7.28</a> 
           </div>
+        </div>
         </div>
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
