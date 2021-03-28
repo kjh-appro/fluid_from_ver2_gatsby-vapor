@@ -7,31 +7,6 @@ class Layout extends Component {
   
   render() {
     const { title, children} = this.props
-    const toggler = (
-      <div className="toggler">
-        <ThemeToggler>{({ theme, toggleTheme }) => (
-          <label className="tog">
-            <input
-              type="checkbox"
-              onChange={e =>
-                toggleTheme(e.target.checked ? "dark" : "light")
-              }
-              checked={theme === "dark"}
-              className="tog-checkbox"
-            />
-            {theme === "dark" ? (
-              <div className="tog-text">
-                Light
-              </div>
-            ) : (
-              <div className="tog-text">
-                Dark
-              </div>
-            )}
-          </label>
-        )}</ThemeToggler>
-      </div>
-    )
 
     return (
       <div className="site-container">
@@ -57,8 +32,8 @@ class Layout extends Component {
           >
               <img
     src={ require('../components/header-logo_2.png') }
-    width='418px'
-    height='221px'/>
+    width='410px'
+    height='216px'/>
        </Link>
        </div>
       <main>{children}</main>
