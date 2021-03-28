@@ -129,7 +129,7 @@
 
 #aside-bar {
     background-color: transparent;
-    display: flex;
+    display: static;
     width: 31px;
     height: auto;
     display: block;
@@ -137,8 +137,8 @@
     color: white;
     top: 7%;
     bottom: 0;
-    padding-top: 40px;
     right:0;
+    padding-top: 40px;
     float:left;
     cursor: pointer;
     font-size: 0.875em;
