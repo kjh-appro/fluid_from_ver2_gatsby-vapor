@@ -57,33 +57,31 @@ class Layout extends Component {
       <div className="dropup">
           <button className="footerbtn1">2009-2015</button>
           <div className="dropup-content1">
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+          <a href="#">
             2009.5.16</a> 
           </div>
-          </div>
-      <div className="dropup">
           <button className="footerbtn2">2015-2020</button>
           <div className="dropup-content2">
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+          <a href="#">
             2011.6.8-2012.2.28</a> 
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+          <a href="#">
             2011.9.5-12.15</a>
+    
           </div>
-          </div>
-          <div className="dropup">
+       
           <button className="footerbtn3">2021-</button>
           <div className="dropup-content3">
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+          <a href="#">
             2012.4.3-10.12</a>  
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+          <a href="#">
             2012.9.3-12.13</a> 
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+          <a href="#">
             2012.5.14</a> 
-          <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">
+          <a href="#">
             2012.7.28</a> 
+         
           </div>
-          </div>
-        
+        </div>
         </div>
         <footer className="footer-copyright">
           © {new Date().getFullYear()} {title}, Built with
