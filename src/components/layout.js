@@ -77,6 +77,7 @@ class Layout extends Component {
         </footer>
       
       </div>
+      </div>
     )
   }
 }
