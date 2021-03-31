@@ -88,29 +88,27 @@
     align-items: baseline;
     text-align: center;
     background-color: transparent;
-    color: white;
+    color: black;
     margin-top: 0.4em;
     padding-top: 0.2em;
-    padding-bottom: 0.2em;
     height: 27px;
-    border-top: 0.1em  solid;
-    border-bottom: 0.1em  solid;
-    border-color: white;
     padding-bottom: 4em;
- 
+
 }
 
 .menu-category a {
     text-decoration: none;
-    color: white;
+    color: black;
     align-items: center;
     text-align: center;
     margin-left: 0.6em;
+    background-color: rgb(202, 255, 204);
 }
 
 .menu-category a:hover {
     text-decoration: none;
-    color: rgb(255,48,0);
+    color: white;
+    background-color: rgb(255,48,0);
     align-items: center;
     text-align: center;
 }
