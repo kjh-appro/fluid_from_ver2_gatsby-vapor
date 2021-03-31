@@ -101,7 +101,7 @@
     list-style: none;
     display: flex;
     justify-content: flex-start;
-    padding: 0em;
+    padding: 0.8em;
     margin-left: 0.8em;
 }
 
@@ -119,7 +119,7 @@
 
 .header-link li {
     margin-left: 1.5em;
-    padding: -5px;
+    padding: -0.8em;
 }
 
 .tog-checkbox {
