@@ -109,7 +109,7 @@
     list-style: none;
     display: flex;
     justify-content: flex-end;
-    margin-right: 0.4em;
+    margin-right: 0.8em;
 }
 
 .header-nav li {
@@ -117,7 +117,7 @@
 }
 
 .header-link li {
-    margin-left: 1.5em;
+    margin-left: 0.6em;
 }
 
 .tog-checkbox {
