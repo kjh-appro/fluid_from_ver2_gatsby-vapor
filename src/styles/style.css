@@ -45,6 +45,11 @@
         flex-wrap: wrap;
     }
 
+    .menu-category {
+        flex-wrap: wrap;
+    }
+
+
     #header-nav-first {
         margin-left: 0em;
     }
