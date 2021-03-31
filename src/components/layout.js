@@ -37,13 +37,18 @@ class Layout extends Component {
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_t.png') }
-    width='15px'
-    height='15px'/></a></li>
+    width='20px'
+    height='20px'/></a></li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_y.png') }
-    width='15px'
-    height='15px'/></a></li>
+    width='20px'
+    height='20px'/></a></li>
+    <li><a href="https://github.com/kjh-appro/" target="_blank" rel="noopener noreferrer">
+              <img
+    src={ require('../components/sns_g.png') }
+    width='20px'
+    height='20px'/></a></li>
             </ul>
           </div>
       </div>
