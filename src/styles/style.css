@@ -124,7 +124,7 @@
 
     list-style: none !important;
     text-decoration: none !important;
-    padding-right: 0.8;
+    padding-right: 0.8em;
     align-items: center;
     text-align: center;
 
@@ -427,8 +427,6 @@ display: inline-block;
 
 
 /* Change the background color of the dropup button when the dropup content is shown */
-.dropup:hover .dropbtn {
-}
 
 /* Postcard*/
 .post-card {
