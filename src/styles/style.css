@@ -129,6 +129,7 @@
 
 #aside-bar {
     background-color: transparent;
+    z-index: -1;
     position:absolute;
     width: 31px;
     height: auto;
