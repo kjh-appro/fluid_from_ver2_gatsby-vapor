@@ -12,7 +12,7 @@
     margin: auto;
     max-width: 45rem;
     background-color: white;
-    border-radius: 0.625em;
+    border-radius: 0.3em;
     border: 0.02em solid;
     border-color: rgb(25, 27, 127);
     padding: 2em 1.5em;
@@ -90,9 +90,10 @@
     background-color: transparent;
     color: black;
     margin-top: 0.4em;
-    padding: 0.17em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
     height: 27px;
-    margin-bottom: 2em;
+    margin-bottom: 1.8em;
 
 }
 
@@ -102,6 +103,7 @@
     align-items: center;
     text-align: center;
     margin-left: 0.17em;
+    padding-right: 0.3em;
     background-color: rgb(202, 255, 204);
    
 }
