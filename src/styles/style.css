@@ -104,7 +104,8 @@
     text-align: center;
     margin-left: 0.17em;
     background-color: rgb(202, 255, 204);
-   
+    padding-left: 0.25em;
+    padding-right: 0.25em;
 }
 
 .menu-category a:hover {
@@ -124,7 +125,7 @@
 
     list-style: none !important;
     text-decoration: none !important;
-    padding-right: 0.8em;
+    padding-right: 0.55em;
     align-items: center;
     text-align: center;
 
