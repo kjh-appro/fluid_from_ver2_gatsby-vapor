@@ -92,7 +92,6 @@
     margin-top: 0.4em;
     padding-top: 0.2em;
     height: 27px;
-    margin-bottom: 4em;
 
 }
 
@@ -101,8 +100,9 @@
     color: black;
     align-items: center;
     text-align: center;
-    margin-left: 0.6em;
+    margin-left: 0.2em;
     background-color: rgb(202, 255, 204);
+    margin-bottom: 3em;
 }
 
 .menu-category a:hover {
