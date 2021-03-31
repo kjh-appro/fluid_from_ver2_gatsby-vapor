@@ -90,8 +90,8 @@
     background-color: transparent;
     color: black;
     margin-top: 0.4em;
-    padding-left: 0.3em;
-    padding-right: 0.3em;
+    padding-left: 0em;
+    padding-right: 1em;
     height: 27px;
     margin-bottom: 1.8em;
 
@@ -423,9 +423,9 @@ display: inline-block;
 
 /* Postcard*/
 .post-card {
-    border: 0.1em solid var(--color-postcard);
     border-radius: 0.3em;
-    margin-top: 0.5em;
+    border: 0.02em solid;
+    border-color: rgb(25, 27, 127);
     margin-bottom: 1.5em;
     padding: 2em 1.5em;
     cursor: default;
