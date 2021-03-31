@@ -131,6 +131,10 @@
     padding-right: 0.55em;
     align-items: center;
     text-align: center;
+    border-radius: 0.3em;
+    border: 0.02em solid;
+    border-color: rgb(25, 27, 127);
+    
 
 }
 
