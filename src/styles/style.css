@@ -55,6 +55,7 @@
     position: fixed;
     align-items: baseline;
     text-align: center;
+    z-index: 1;
     width: 100%;
     background-color: rgb(202, 255, 204);
     color: rgb(96, 96, 96);
