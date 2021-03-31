@@ -90,8 +90,9 @@
     background-color: transparent;
     color: black;
     margin-top: 0.4em;
-    padding-top: 0.2em;
+    padding: 0.17em;
     height: 27px;
+    margin-bottom: 2em;
 
 }
 
@@ -102,7 +103,7 @@
     text-align: center;
     margin-left: 0.17em;
     background-color: rgb(202, 255, 204);
-    margin-bottom: 3em;
+   
 }
 
 .menu-category a:hover {
