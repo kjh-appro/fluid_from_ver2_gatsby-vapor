@@ -82,6 +82,44 @@
     background: transparent;
 }
 
+.menu-category {
+    display: flex;
+    position: absolute;
+    align-items: baseline;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    margin-top: 0.4em;
+    padding-top: 0.02em;
+    height: 43px;
+    border-top: 0 0.1em 0  solid;
+    border-top: 0 0.1em 0  solid;
+    border-color: white;
+ 
+}
+
+.menu-category a {
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    text-align: center;
+    margin-left: 0.6em;
+}
+
+.menu-category a:hover {
+    text-decoration: none;
+    color: rgb(255,48,0);
+    align-items: center;
+    text-align: center;
+}
+
+.menu-category div::selection,
+.menu-category a::selection {
+    background: transparent;
+}
+
+
+
 .header-title {
     white-space: nowrap;
     visibility: visible;
