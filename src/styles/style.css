@@ -85,13 +85,13 @@
 .menu-category {
     display: flex;
     position: inherit;
-    align-items: baseline;
+    align-items: center;
     text-align: center;
     background-color: transparent;
     color: black;
     margin-top: 0.4em;
     padding-left: 0em;
-    padding-right: 1em;
+    padding-right: 2em;
     height: 27px;
     margin-bottom: 1.8em;
 
