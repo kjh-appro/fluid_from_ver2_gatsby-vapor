@@ -90,8 +90,7 @@
     background-color: transparent;
     color: black;
     margin-top: 0.4em;
-    padding-left: 0em;
-    padding-right: 2em;
+    margin-left: 0;
     height: 27px;
     margin-bottom: 1.8em;
 
@@ -102,9 +101,8 @@
     color: black;
     align-items: center;
     text-align: center;
-    margin-left: 0em;
     background-color: rgb(202, 255, 204);
-    padding-left: 0em;
+    padding-left: 0.25em;
     padding-right: 0.25em;
 }
 
