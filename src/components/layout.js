@@ -66,13 +66,13 @@ class Layout extends Component {
        </div>
 
        <div className="menu-category">
-       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Photo</a> 
-       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Project</a> 
-       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Research</a> 
-       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Review</a> 
-       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Translation</a> 
-       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Wiki</a> 
-       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Writing</a> 
+       <a style="margin-right:0.6em" href="https://quirky-euclid-3c931b.netlify.app/tags/css">Photo</a> 
+       <a style="margin-right:0.6em" href="https://quirky-euclid-3c931b.netlify.app/tags/css">Project</a> 
+       <a style="margin-right:0.6em" href="https://quirky-euclid-3c931b.netlify.app/tags/css">Research</a> 
+       <a style="margin-right:0.6em"href="https://quirky-euclid-3c931b.netlify.app/tags/css">Review</a> 
+       <a style="margin-right:0.6em" href="https://quirky-euclid-3c931b.netlify.app/tags/css">Translation</a> 
+       <a style="margin-right:0.6em" href="https://quirky-euclid-3c931b.netlify.app/tags/css">Wiki</a> 
+       <a style="margin-right:0.6em" href="https://quirky-euclid-3c931b.netlify.app/tags/css">Writing</a> 
        </div>
 
        <div ID="aside-bar">
