@@ -65,6 +65,16 @@ class Layout extends Component {
        </Link>
        </div>
 
+       <div className="menu-category">
+       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Photo</a> 
+       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Project</a> 
+       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Research</a> 
+       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Review</a> 
+       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Translation</a> 
+       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Wiki</a> 
+       <a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Writing</a> 
+       </div>
+
        <div ID="aside-bar">
        <li><a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
 </li>
@@ -91,5 +101,6 @@ class Layout extends Component {
     )
   }
 }
+
 
 export default Layout
