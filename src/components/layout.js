@@ -34,10 +34,16 @@ class Layout extends Component {
               <li>{toggler}</li>
             </ul>
             <ul className="header-link">
-              <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-                GitHub</a></li>
-              <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
-                LinkedIn</a></li>
+              <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
+              <img
+    src={ require('../components/sns_t.png') }
+    width='15px'
+    height='15px'/></a></li>
+              <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
+              <img
+    src={ require('../components/sns_y.png') }
+    width='15px'
+    height='15px'/></a></li>
             </ul>
           </div>
       </div>
