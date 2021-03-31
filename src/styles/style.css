@@ -84,7 +84,7 @@
 
 .menu-category {
     display: flex;
-    position: absolute;
+    position: inherit;
     align-items: baseline;
     text-align: center;
     background-color: transparent;
@@ -100,9 +100,9 @@
     color: black;
     align-items: center;
     text-align: center;
-    margin-left: 0.16em;
+    margin-left: 0.17em;
     background-color: rgb(202, 255, 204);
-    padding-bottom: 3em;
+    margin-bottom: 3em;
 }
 
 .menu-category a:hover {
@@ -594,6 +594,7 @@ display: inline-block;
 article .tag-container {
     text-align: right;
 }
+
 article .tag-container a {
     text-decoration: none;
     color: inherit;
