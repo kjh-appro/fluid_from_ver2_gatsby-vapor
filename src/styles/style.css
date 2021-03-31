@@ -103,7 +103,6 @@
     align-items: center;
     text-align: center;
     margin-left: 0.17em;
-    padding-right: 0.3em;
     background-color: rgb(202, 255, 204);
    
 }
@@ -119,6 +118,16 @@
 .menu-category div::selection,
 .menu-category a::selection {
     background: transparent;
+}
+
+.menu-category li  {
+
+    list-style: none !important;
+    text-decoration: none !important;
+    padding-right: 0.8;
+    align-items: center;
+    text-align: center;
+
 }
 
 
