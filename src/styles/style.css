@@ -240,6 +240,7 @@
     float:left;
     cursor: pointer;
     font-size: 0.875em;
+    opacity: 0.5;
   }
 
 #aside-bar a {
