@@ -234,8 +234,8 @@
     position: fixed;
     display: block;
     writing-mode: vertical-rl;
-    right: 0.8em;
-    bottom: 0.8em;
+    right: 1.6em;
+    bottom: 1.6em;
     padding: 1;
     float:left;
     cursor: pointer;
