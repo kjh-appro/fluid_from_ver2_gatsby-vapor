@@ -86,7 +86,10 @@ class Layout extends Component {
 </li>
           </div>
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
-        <a href="#">TOP</a>
+        <a href="#"><img
+    src={ require('../components/top_btn_2.png') }
+    width='40px'
+    height='40px'/></a>
         </div>
       <main>{children}</main>
 
@@ -104,4 +107,3 @@ class Layout extends Component {
 
 
 export default Layout
-
