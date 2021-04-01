@@ -88,8 +88,8 @@ class Layout extends Component {
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
         <a href="#"><img
     src={ require('../components/top_btn_4.png') }
-    width='60px'
-    height='60px'/></a>
+    width='47px'
+    height='47px'/></a>
         </div>
       <main>{children}</main>
 
