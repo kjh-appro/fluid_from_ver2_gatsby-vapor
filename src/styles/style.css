@@ -545,7 +545,7 @@ display: inline-block;
     color: white !important;
 }
 .pagenator-link svg {
-    fill: var(--color-font);
+    fill: white;
 }
 .pagenator-unlinked svg {
     fill: transparent;
@@ -570,7 +570,7 @@ display: inline-block;
 .post-card-readmore {
     margin-top: 0.375rem;
     font-size: 0.875em;
-    color: var(--color-blue);
+    color: rgb(70,111,224);
 }
 .post-card-readmore span::selection {
     background: transparent;
@@ -582,7 +582,7 @@ display: inline-block;
     width: 0.5rem;
     height: 0.5rem;
     margin-left: 0.125rem;
-    fill: var(--color-blue);
+    fill: rgb(70,111,224);
 }
 
 .post-nav {
