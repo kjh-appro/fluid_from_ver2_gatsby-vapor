@@ -32,8 +32,11 @@ class Layout extends Component {
               <li id="header-nav-first"><Link  to={`/`}><img
     src={ require('../components/cross.png') }
     width='20px'
-    height='20px'/>Home</Link></li>
+    height='20px'/></Link></li>
+              <li><Link  to={`/`}Home></Link></li>
               <li><Link to={`/tags`}>Tag</Link></li>
+              <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
+              Log</a></li>
               <li><Link to={`/search`}>Search</Link></li>
               <li>{toggler}</li>
             </ul>
