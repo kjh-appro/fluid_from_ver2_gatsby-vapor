@@ -33,7 +33,7 @@ class Layout extends Component {
     src={ require('../components/cross.png') }
     width='20px'
     height='20px'/></Link></li>
-              <li><Link  to={`/`}Home></Link></li>
+              <li><Link  to={`/`}>Home</Link></li>
               <li><Link to={`/tags`}>Tag</Link></li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               Log</a></li>
