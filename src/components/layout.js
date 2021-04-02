@@ -29,7 +29,10 @@ class Layout extends Component {
       <div className="header-menu-bar">
         <div className="nav-container">
             <ul className="header-nav">
-              <li id="header-nav-first"><Link  to={`/`}>Home</Link></li>
+              <li id="header-nav-first"><Link  to={`/`}><img
+    src={ require('../components/cross.png') }
+    width='20px'
+    height='20px'/>Home</Link></li>
               <li><Link to={`/tags`}>Tag</Link></li>
               <li><Link to={`/search`}>Search</Link></li>
               <li>{toggler}</li>
