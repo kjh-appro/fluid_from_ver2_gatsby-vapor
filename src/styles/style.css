@@ -55,6 +55,13 @@
     }
 }
 
+#header-nav-first img {
+
+padding-top: 0.5em;
+padding-right: 0.025em;
+
+}
+
 .header-menu-bar {
     display: flex;
     position: fixed;
@@ -240,7 +247,7 @@
     float:left;
     cursor: pointer;
     font-size: 0.875em;
-    opacity: 0.4;
+    opacity: 0.5;
   }
 
 #aside-bar a {
@@ -535,7 +542,7 @@ display: inline-block;
     justify-content: space-between;
     margin-bottom: 1em;
     font-size: 0.875em;
-    color: white;
+    color: white !important;
 }
 .pagenator-link svg {
     fill: var(--color-font);
@@ -543,10 +550,16 @@ display: inline-block;
 .pagenator-unlinked svg {
     fill: transparent;
 }
+
+.pagenator a {
+
+    color: white !important;
+}
+
 .pagenator div::selection,
 .pagenator a::selection {
     background: transparent;
-    color: white;
+    color: white !important;
 }
 
 .pagenator svg {
