@@ -176,10 +176,9 @@ color:rgb(25, 27, 127);
     list-style: none;
     display: flex;
     justify-content: flex-start;
-    margin-left: 0em;
-    padding-left:-0.5em;
+    left: 0em;
     margin-top: 0em;
-    padding-top: 1.15em;
+    padding-top: 0.9em;
     color:rgb(25, 27, 127) !important;
 }
 
