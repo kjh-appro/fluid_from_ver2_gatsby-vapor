@@ -7,7 +7,7 @@ body {
     letter-spacing: -0.0125em;
 }
 ::selection {
-    background: var(--color-teal);
+    background: rgb(202, 255, 204) !important;
 }
 p {
     line-height: 1.75em;
