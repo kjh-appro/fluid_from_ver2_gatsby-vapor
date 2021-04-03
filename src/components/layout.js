@@ -93,9 +93,9 @@ class Layout extends Component {
 </li>
 </div>
 <div ID="aside-bar-hidden">
-  <li><a href="https://github.com/">;;;;;;;;;;;;;</a>/</li>
-  <li><a href="https://github.com/">;;;;;;;;;;;;;</a>/</li>
-  <li><a href="https://github.com/">;;;;;;;;;;;;;</a>/</li>
+  <li><a href="https://github.com/">;;;;;;</a>/<a href="https://github.com/">;;;;;;</a>/<a href="https://github.com/">;;;;;;</a>/</li>
+  <li><a href="https://github.com/">;;;;;;</a>/<a href="https://github.com/">;;;;;;</a>/<a href="https://github.com/">;;;;;;</a>/</li>
+  <li><a href="https://github.com/">;;;;;;</a>/<a href="https://github.com/">;;;;;;</a>/<a href="https://github.com/">;;;;;;</a>/</li>
 </div>
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
         <a href="#"><img
