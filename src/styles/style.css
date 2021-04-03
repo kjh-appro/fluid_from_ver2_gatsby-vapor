@@ -191,11 +191,12 @@ color:rgb(25, 27, 127);
 }
 
 .header-nav li {
-    margin-left: 0.3em;
+    margin-left: 0.6em;
+    color:rgb(25, 27, 127) !important;
 }
 
 .header-link li {
-    margin-left: 0.3em;
+    margin-left: 0.6em;
 }
 
 .tog-checkbox {
