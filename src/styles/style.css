@@ -215,7 +215,6 @@ color:rgb(25, 27, 127);
 
 #aside-bar {
     background-color: transparent;
-    z-index: -1;
     position:absolute;
     cursor: pointer;
     width: 31px;
