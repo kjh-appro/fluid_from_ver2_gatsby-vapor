@@ -31,7 +31,7 @@
     align-items: center;
     align-content: center;
     padding-top: 27px;
-    margin-left: 1.8125em;
+    margin-left: 0.9em;
     right:0;
     width: 100% ;
 }
@@ -256,7 +256,7 @@ color:rgb(25, 27, 127);
     position: fixed;
     display: block;
     writing-mode: vertical-rl;
-    right: 2.9125em;
+    right: 2em;
     bottom: 2.2em;
     padding: 1;
     float:left;
