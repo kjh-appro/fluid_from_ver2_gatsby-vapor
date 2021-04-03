@@ -57,15 +57,16 @@
 
 .header-nav-cross img {
 
-padding-top: 0.3em;
+padding-top: 0.15em;
 margin-right: 0.3em;
 
 }
 
 .header-nav-femilog {
 
-    margin-left: -0.3em;
+    margin-left: -0.38em;
     margin-right: 0.5em;
+    color:rgb(25, 27, 127);
     
     }
 
