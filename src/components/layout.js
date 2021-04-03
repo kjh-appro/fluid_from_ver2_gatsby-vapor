@@ -41,7 +41,8 @@ class Layout extends Component {
             <Link  to={`/`}><img
     src={ require('../components/cross.png') }
     width='27px'
-    height='25px'/></Link>© Fluid Kim</li>
+    height='25px'/></Link><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
+      © fluid kim</a></li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_t.png') }
