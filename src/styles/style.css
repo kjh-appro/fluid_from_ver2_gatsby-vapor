@@ -231,7 +231,6 @@ color:rgb(25, 27, 127);
   }
 
 #aside-bar a {
-    text-decoration: none !important;
     color: rgb(202, 255, 204);
    }
 
@@ -239,7 +238,6 @@ color:rgb(25, 27, 127);
 #aside-bar li  {
 
     list-style: none !important;
-    text-decoration: none !important;
     padding: 0;
     margin-bottom: 20px;
     color: rgb(202, 255, 204);
@@ -248,7 +246,6 @@ color:rgb(25, 27, 127);
 
 #aside-bar li a {
     list-style: none !important;
-    text-decoration: none !important;
     color: rgb(202, 255, 204);
 }
 
