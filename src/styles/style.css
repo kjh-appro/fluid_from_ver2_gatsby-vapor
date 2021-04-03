@@ -605,7 +605,7 @@ display: inline-block;
     width: 0.5rem;
     height: 0.5rem;
     margin-left: 0.125rem;
-    fill: rgb(70,111,224);
+    fill: white;
 }
 
 .post-nav {
@@ -630,7 +630,7 @@ display: inline-block;
 .post-nav svg {
     width: 0.8125rem;
     height: 0.8125rem;
-    fill: var(--color-font);
+    fill: white;
 }
 .post-nav-prev {
     margin-left: 0.125rem;
