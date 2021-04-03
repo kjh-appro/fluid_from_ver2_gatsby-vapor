@@ -40,9 +40,9 @@ class Layout extends Component {
               <li className="header-nav-cross">
             <Link  to={`/`}><img
     src={ require('../components/cross.png') }
-    width='27px'
-    height='25px'/></Link><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
-      © fluid kim</a></li>
+    width='25px'
+    height='25px'/></Link></li>
+    <li className="header-nav-femilog">© Fluid Kim</li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_t.png') }
