@@ -181,6 +181,7 @@ color:rgb(25, 27, 127);
     padding-left: -0.13em;
     padding-top: 1em;
     color:rgb(25, 27, 127) !important;
+    font-family: var(--font-bold);
 }
 
 .header-link {
