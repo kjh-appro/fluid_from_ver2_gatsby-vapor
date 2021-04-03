@@ -29,8 +29,7 @@ class Layout extends Component {
       <div className="header-menu-bar">
         <div className="nav-container">
             <ul className="header-nav">
-              <li id="header-nav-first"><Link  to={`/`}>Home</Link></li>
-              <li><Link to={`/tags`}>Tag</Link></li>
+              <li id="header-nav-first"><Link to={`/tags`}>Tag</Link></li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               Log</a></li>
               <li><Link to={`/search`}>Search</Link></li>
@@ -42,7 +41,7 @@ class Layout extends Component {
     src={ require('../components/cross.png') }
     width='25px'
     height='25px'/></Link></li>
-    <li className="header-nav-femilog">© fluid kim</li>
+    <li className="header-nav-femilog">© fluid</li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_t.png') }
