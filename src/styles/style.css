@@ -57,8 +57,8 @@
 
 .header-nav-cross img {
 
-padding-top: 0.011em;
-padding-right: 0.08em;
+padding-top: -0.06em;
+padding-right: 0.02em;
 
 }
 
@@ -66,7 +66,8 @@ padding-right: 0.08em;
 
     padding-left: -0.3em;
     padding-right: 0.5em;
-    margin-top: 0.011em;
+    margin-top: -0.06em;
+    padding-top: -0.06em;
     color:rgb(25, 27, 127);
     
     }
