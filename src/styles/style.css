@@ -63,6 +63,13 @@ color:rgb(25, 27, 127);
 
 }
 
+.header-nav-cross img a {
+
+    margin-top: -0.2em;
+    padding-top: -0.2em;
+    color:rgb(25, 27, 127);
+}
+
 .header-nav-femilog {
 
     padding-left: -0.5em;
