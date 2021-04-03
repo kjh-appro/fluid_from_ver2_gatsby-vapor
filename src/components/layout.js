@@ -83,13 +83,13 @@ class Layout extends Component {
        </div>
 
        <div ID="aside-bar">
-       <li><a href="https://github.com/">2009-2015</a>/
+       <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2009-2015</a>/
 </li>
-<li><a href="https://github.com/">2015-2017</a>/</li>
+<li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2015-2017</a>/</li>
 <li>
-<a href="https://github.com/">2017-2020</a>/
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">2017-2020</a>/
 </li>
-<li><a href="https://github.com/">2021-</a>
+<li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2021-</a>
 </li>
 </div>
 <div ID="aside-bar-hidden">
