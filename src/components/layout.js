@@ -29,10 +29,10 @@ class Layout extends Component {
       <div className="header-menu-bar">
         <div className="nav-container">
             <ul className="header-nav">
-              <li id="header-nav-first"><Link to={`/tags`}>Tag</Link></li>
+              <li id="header-nav-first"><Link to={`/tags`}>tag</Link></li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
-              Log</a></li>
-              <li><Link to={`/search`}>Search</Link></li>
+              log</a></li>
+              <li><Link to={`/search`}>search</Link></li>
               <li>{toggler}</li>
             </ul>
             <ul className="header-link">
