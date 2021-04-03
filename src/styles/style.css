@@ -31,7 +31,7 @@
     align-items: center;
     align-content: center;
     padding-top: 37px;
-    margin-left: 0.65em;
+    margin-left: 0.57em;
     right:0;
     width: 100% ;
 }
@@ -176,7 +176,7 @@ color:rgb(25, 27, 127);
     list-style: none;
     display: flex;
     justify-content: flex-start;
-    margin-left: 0.4em;
+    margin-left: 0em;
     padding-left:-0.5em;
     margin-top: 0em;
     padding-top: 1.15em;
