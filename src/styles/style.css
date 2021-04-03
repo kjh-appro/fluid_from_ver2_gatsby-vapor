@@ -560,6 +560,14 @@ display: inline-block;
     color: inherit;
 }
 
+.page-head-title {
+    color:rgb(202, 255, 204) !important;
+}
+
+.page-head-title h1{
+    color:rgb(202, 255, 204) !important;
+}
+
 .pagenator {
     display: flex;
     justify-content: space-between;
