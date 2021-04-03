@@ -94,7 +94,7 @@ class Layout extends Component {
 </li>
 </div>
 <div ID="aside-bar-hidden">
-  <li><a href="https://github.com/">;;;;</a>/
+  <li><a href="https://github.com/">구)페미로그 old version is here!</a>/
   <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
