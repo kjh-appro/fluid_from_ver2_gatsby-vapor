@@ -42,7 +42,7 @@ class Layout extends Component {
     src={ require('../components/cross.png') }
     width='25px'
     height='25px'/></Link></li>
-    <li className="header-nav-femilog">© Fluid Kim</li>
+    <li className="header-nav-femilog">© fluid kim</li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_t.png') }
