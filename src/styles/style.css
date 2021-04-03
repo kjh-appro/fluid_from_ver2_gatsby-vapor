@@ -227,7 +227,6 @@ color:rgb(25, 27, 127);
     right:0.56em;
     padding-top: 40px;
     float:left;
-    cursor: pointer;
     font-size: 0.875em;
   }
 
@@ -270,7 +269,6 @@ color:rgb(25, 27, 127);
     right: 8.6em;
     padding-top: 40px;
     float:left;
-    cursor: pointer;
     font-size: 0.875em;
     color: rgb(202, 255, 204) !important;
 }
