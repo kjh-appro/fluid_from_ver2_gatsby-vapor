@@ -83,13 +83,18 @@ class Layout extends Component {
        </div>
 
        <div ID="aside-bar">
-       <li><a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
+       <li><a href="https://github.com/">2009-2015</a>/
 </li>
+<li><a href="https://github.com/">2015-2017</a>/</li>
 <li>
-  <a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
+<a href="https://github.com/">2017-2020</a>/
 </li>
-<li>
-  <a href="https://github.com/">2009-2015</a>/<a href="https://github.com/">2015-2017</a>/<a href="https://github.com/">2017-2020</a>/<a href="https://github.com/">2021-</a>
+<li><a href="https://github.com/">2021-</a>
+</li>
+<li className="aside-bar-hidden">
+  <a href="https://github.com/">;;;;;;;;;;;;;</a>/
+  <a href="https://github.com/">;;;;;;;;;;;;;</a>/
+  <a href="https://github.com/">;;;;;;;;;;;;;</a>/
 </li>
           </div>
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
