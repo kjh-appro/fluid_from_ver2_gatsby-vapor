@@ -257,6 +257,24 @@ color:rgb(25, 27, 127);
     text-decoration: none !important;
     color: rgb(255,48,0);
    }
+
+#aside-bar:hover a {
+    list-style: none !important;
+    text-decoration: none !important;
+    color: rgb(255,48,0);
+   }
+
+#aside-bar-hidden:hover li {
+    list-style: none !important;
+    text-decoration: none !important;
+    color: rgb(255,48,0);
+   }
+
+#aside-bar-hidden:hover a {
+    list-style: none !important;
+    text-decoration: none !important;
+    color: rgb(255,48,0);
+   }
 #aside-bar-hidden {
     background-color: transparent;
     z-index: -1;
