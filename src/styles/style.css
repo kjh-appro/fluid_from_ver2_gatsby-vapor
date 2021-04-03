@@ -194,6 +194,7 @@ color:rgb(25, 27, 127);
 .header-nav li {
     margin-left: 0.96em;
     color:rgb(25, 27, 127) !important;
+    font-family: var(--font-bold) !important;
 }
 
 .header-nav li a {
