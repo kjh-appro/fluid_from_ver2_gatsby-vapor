@@ -258,6 +258,26 @@ color:rgb(25, 27, 127);
     text-decoration: none !important;
     color: rgb(202, 255, 204);
    }
+#aside-bar-hidden {
+    color: rgb(202, 255, 204) !important;
+}
+
+#aside-bar-hidden li {
+    color: rgb(202, 255, 204) !important;
+}
+
+#aside-bar-hidden a {
+    color:rgb(25, 27, 127); 
+}
+
+#aside-bar-hidden li a {
+    color:rgb(25, 27, 127); 
+
+}
+
+#aside-bar-hidden:hover li {
+    color:rgb(25, 27, 127); 
+}
 
 #top-btn {
     background-color: transparent;
