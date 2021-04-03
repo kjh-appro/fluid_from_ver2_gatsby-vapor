@@ -98,14 +98,12 @@ class Layout extends Component {
   <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
-  </li>
-  <li><a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
   </li>
   <li><a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
   <a href="https://github.com/">;;;;</a>/
