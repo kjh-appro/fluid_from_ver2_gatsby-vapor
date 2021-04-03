@@ -222,10 +222,10 @@ color:rgb(25, 27, 127);
     display: block;
     writing-mode: vertical-rl;
     color: white;
-    top: 7%;
+    top: 4%;
     bottom: 0;
     right:0.56em;
-    padding-top: 40px;
+    padding-top: 20px;
     float:left;
     font-size: 0.875em;
   }
@@ -249,7 +249,6 @@ color:rgb(25, 27, 127);
     color: rgb(202, 255, 204);
 }
 
-
 #aside-bar:hover li {
     list-style: none !important;
     text-decoration: line-through;
@@ -262,10 +261,10 @@ color:rgb(25, 27, 127);
     height: auto;
     display: block;
     writing-mode: vertical-rl;
-    top: 7%;
+    top: 4%;
     bottom: 0;
     right: 8.6em;
-    padding-top: 40px;
+    padding-top: 20px;
     float:left;
     font-size: 0.875em;
     color: rgb(202, 255, 204) !important;
