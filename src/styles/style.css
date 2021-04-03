@@ -179,7 +179,7 @@ color:rgb(25, 27, 127);
     margin-left: 0.8em;
     padding-left:0em;
     margin-top: 0em;
-    padding-top: 1.6375em;
+    padding-top: 0.86em;
     color:rgb(25, 27, 127) !important;
 }
 
@@ -642,4 +642,3 @@ article .tag-container a {
     color: inherit;
     font-size: 0.875em;
 }
-
