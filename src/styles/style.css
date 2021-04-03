@@ -55,12 +55,19 @@
     }
 }
 
-#header-nav-cross img {
+.header-nav-cross img {
 
 padding-top: 0.3em;
-padding-right: 0.025em;
+margin-right: 0.3em;
 
 }
+
+.header-nav-femilog {
+
+    margin-left: -0.03em;
+    margin-right: 0.8em;
+    
+    }
 
 .header-menu-bar {
     display: flex;
