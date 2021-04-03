@@ -178,7 +178,8 @@ color:rgb(25, 27, 127);
     justify-content: flex-start;
     left: 0em;
     margin-top: 0em;
-    padding-top: 0.9em;
+    padding-left: -0.13em;
+    padding-top: 1.08em;
     color:rgb(25, 27, 127) !important;
 }
 
