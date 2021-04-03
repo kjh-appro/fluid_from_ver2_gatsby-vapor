@@ -91,12 +91,12 @@ class Layout extends Component {
 </li>
 <li><a href="https://github.com/">2021-</a>
 </li>
-<li className="aside-bar-hidden">
-  <a href="https://github.com/">;;;;;;;;;;;;;</a>/
-  <a href="https://github.com/">;;;;;;;;;;;;;</a>/
-  <a href="https://github.com/">;;;;;;;;;;;;;</a>/
-</li>
-          </div>
+</div>
+<div ID="aside-bar-hidden">
+  <li><a href="https://github.com/">;;;;;;;;;;;;;</a>/</li>
+  <li><a href="https://github.com/">;;;;;;;;;;;;;</a>/</li>
+  <li><a href="https://github.com/">;;;;;;;;;;;;;</a>/</li>
+</div>
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
         <a href="#"><img
     src={ require('../components/top_btn_4.png') }
