@@ -252,12 +252,13 @@ color:rgb(25, 27, 127);
     color: rgb(202, 255, 204);
 }
 
+
 #aside-bar:hover li a {
     list-style: none !important;
-    text-decoration: none !important;
-    color: rgb(255,48,0);
+    text-decoration: line-through;
+    color: rgb(202, 255, 204);
    }
-
+   
 #aside-bar-hidden {
     background-color: transparent;
     position:absolute;
