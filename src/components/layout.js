@@ -77,6 +77,7 @@ class Layout extends Component {
        <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Translation</a></li> 
        <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Wiki</a></li> 
        <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Writing</a></li> 
+       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Projects</a></li> 
        </div>
 
 <div ID="aside-bar-0">
