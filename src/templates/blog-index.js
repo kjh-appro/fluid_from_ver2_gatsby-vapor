@@ -7,6 +7,7 @@ import PostCard from "../components/postCard"
 
 import "../styles/style.css"
 
+</meta>
 class BlogIndexTemplate extends React.Component {
   render() {
     const { data } = this.props
