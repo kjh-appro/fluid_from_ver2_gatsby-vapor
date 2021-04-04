@@ -33,14 +33,17 @@
 
 .site-container a {
     text-decoration: none;
+    color: black;
 }
 
 .site-container a:hover {
     background-color: rgb(202, 255, 204);
+    color: black;
 }
 
 .site-container a::selection {
     background-color: rgb(202, 255, 204);
+    color: black;
 }
 
 .site-container_front {
