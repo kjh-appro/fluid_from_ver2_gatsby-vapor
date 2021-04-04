@@ -557,6 +557,7 @@ display: inline-block;
     margin-top: 0em;
     margin-bottom: 0em;
     letter-spacing: -0.025em;
+    font-family: 'NEXON Lv1 Gothic OTF', 'sans-saerif';
 }
 .post-card a {
     text-decoration: none;
@@ -586,7 +587,8 @@ display: inline-block;
     text-align: center;
 }
 .post-header h1 {
-    font-size: 1.8em;
+    font-size: 2.1em;
+    color:rgb(25, 27, 127);
     font-family: 'NEXON Lv1 Gothic OTF', 'sans-saerif';
     letter-spacing: -0.025em;
     margin-top: 0em;
