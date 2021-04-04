@@ -5,12 +5,6 @@ tags: [로그]
 description: 
 ---
 
-*링크를 누르시면 각 항목에 적합한 웹주소로 연결됩니다.
-
-*데드링크로 연결된 다면, 여기(<a href="https://web.archive.org" target="_blank" rel="noopener noreferrer">링크</a>)를 방문해서 각 웹주소를 입력한 후, 복원 가능한 자료에 한해서 내용을 찾아보실 수 있습니다. 
-
----
-
 - <a href="http://fdabang.tistory.com/" target="_blank" rel="noopener noreferrer">2008.7.7- 2009.1.19</a> 야성의 꽃다방
 
 - <a href="http://irregularrhythmasylum.blogspot.kr/2009/05/p-heavy-korea-tour-2009.html" target="_blank" rel="noopener noreferrer">2009.5.16</a> P-heavy Korea Tour 2009! (WITH 젼니 저음 어택)
@@ -78,3 +72,9 @@ description:
 - <a href="http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=120183&page=21&total=455" target="_blank" rel="noopener noreferrer">2014.11.21</a>
 
 - <a href="https://www.facebook.com/events/583302571797840/" target="_blank" rel="noopener noreferrer">2014.10.24</a>
+
+---
+
+*링크를 누르시면 각 항목에 적합한 웹주소로 연결됩니다.
+
+*데드링크로 연결된 다면, 여기(<a href="https://web.archive.org" target="_blank" rel="noopener noreferrer">링크</a>)를 방문해서 각 웹주소를 입력한 후, 복원 가능한 자료에 한해서 내용을 찾아보실 수 있습니다. 

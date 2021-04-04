@@ -5,12 +5,6 @@ tags: [로그]
 description: 
 ---
 
-*링크를 누르시면 각 항목에 적합한 웹주소로 연결됩니다.
-
-*데드링크로 연결된 다면, 여기(<a href="https://web.archive.org" target="_blank" rel="noopener noreferrer">링크</a>)를 방문해서 각 웹주소를 입력한 후, 복원 가능한 자료에 한해서 내용을 찾아보실 수 있습니다. 
-
----
-
 - <a href="https://meta.wikimedia.org/wiki/File:New_Editor_Experiences_user_personas,_August_2017.pdf" target="_blank" rel="noopener noreferrer">2017.5.17</a> ‘새 사용자 경험(New Editor Experiences)’ 인터뷰 _위키미디어 재단(Wikimedia Foundation, Reboot)
 
 - <a href="https://www.facebook.com/NGASF/posts/1413844745338121/" target="_blank" rel="noopener noreferrer">2017.9.2</a> 영화로 얘기해보는 '낙태죄 폐지'와 재생산 정치 _지구지역행동네트워크(NGA)
@@ -60,3 +54,9 @@ description:
 - <a href="https://www.youtube.com/channel/UCaaybAV09nI5VukqdyQyqCg" target="_blank" rel="noopener noreferrer">2020.10.25</a>
 
 - <a href="https://summit.g0v.tw/2020/en/agenda/2020-12-05/5ef709ebba206b030d66a36c/" target="_blank" rel="noopener noreferrer">2020.11.21</a>
+
+---
+
+*링크를 누르시면 각 항목에 적합한 웹주소로 연결됩니다.
+
+*데드링크로 연결된 다면, 여기(<a href="https://web.archive.org" target="_blank" rel="noopener noreferrer">링크</a>)를 방문해서 각 웹주소를 입력한 후, 복원 가능한 자료에 한해서 내용을 찾아보실 수 있습니다. 

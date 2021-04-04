@@ -5,12 +5,6 @@ tags: [로그]
 description: 
 ---
 
-*링크를 누르시면 각 항목에 적합한 웹주소로 연결됩니다.
-
-*데드링크로 연결된 다면, 여기(<a href="https://web.archive.org" target="_blank" rel="noopener noreferrer">링크</a>)를 방문해서 각 웹주소를 입력한 후, 복원 가능한 자료에 한해서 내용을 찾아보실 수 있습니다. 
-
----
-
 - <a href="http://boooki.com/ko/femi_reading" target="_blank" rel="noopener noreferrer">2015.1.15-5.28</a> 여성주의 책읽기 소모임 '여백' _민우회
 
 - <a href="http://www.aladin.co.kr/events/wevent_book.aspx?pn=20150106_inmunstudy63" target="_blank" rel="noopener noreferrer">2015.1.22</a> '병역기피를 다시 생각한다 : 남성들간의 차이와 잉여시대의 남성성'_출판 기념 강의 _정희진 _전쟁없는 세상
@@ -140,3 +134,9 @@ description:
 - <a href="https://femiwiki.com/w/%ED%8E%98%EB%AF%B8%EC%9C%84%ED%82%A4:%EC%9C%84%ED%82%A4%E2%99%A5%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98_%EC%97%90%EB%94%94%ED%84%B0%ED%86%A4" target="_blank" rel="noopener noreferrer">2017.3.25</a>
 
 - <a href="http://www.sidof.org/program/movie_view.php?mv_idx=2059&cate_idx=139&pro_idx=&size=10" target="_blank" rel="noopener noreferrer">2017.3.29</a>
+
+---
+
+*링크를 누르시면 각 항목에 적합한 웹주소로 연결됩니다.
+
+*데드링크로 연결된 다면, 여기(<a href="https://web.archive.org" target="_blank" rel="noopener noreferrer">링크</a>)를 방문해서 각 웹주소를 입력한 후, 복원 가능한 자료에 한해서 내용을 찾아보실 수 있습니다. 
