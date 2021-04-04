@@ -72,8 +72,6 @@ class Layout extends Component {
        </div>
 
        <div className="menu-category">
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Photo</a></li> 
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Project</a></li> 
        <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Research</a></li> 
        <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Review</a></li> 
        <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Translation</a></li> 
