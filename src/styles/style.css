@@ -31,6 +31,18 @@
     font-family: 'IBMPlexSansKR-Regular', 'sans-saerif';
 }
 
+.site-container a {
+    text-decoration: none;
+}
+
+.site-container a:hover {
+    background-color: rgb(202, 255, 204);
+}
+
+.site-container a::selection {
+    background-color: rgb(202, 255, 204);
+}
+
 .site-container_front {
     margin: auto;
     padding: auto;
