@@ -9,6 +9,8 @@ description:
 
 *링크를 누르시면 각 항목에 적합한 웹주소로 연결됩니다.
 
+*데드링크로 연결된 다면, 여기(<a href="https://web.archive.org" target="_blank" rel="noopener noreferrer">링크</a>)를 방문해서 각 웹주소를 입력한 후, 복원 가능한 자료에 한해서 내용을 찾아보실 수 있습니다. 
+
 ---
 
 - <a href="http://fdabang.tistory.com/" target="_blank" rel="noopener noreferrer">2008.7.7- 2009.1.19</a> 야성의 꽃다방
