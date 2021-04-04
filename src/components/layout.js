@@ -82,6 +82,21 @@ class Layout extends Component {
        <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Writing</a></li> 
        </div>
 
+<div ID="aside-bar-0">
+<li><a href="https://github.com/"></a>구)페미로그 old version is here!/
+  </li>
+</div>
+<div ID="aside-bar-hidden">
+  
+  <li><a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
+  <a href="https://github.com/">;;;;</a>/
+  </li>
+</div>
        <div ID="aside-bar">
        <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2009-2015</a>/
 </li>
@@ -93,19 +108,7 @@ class Layout extends Component {
 <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2021-</a>
 </li>
 </div>
-<div ID="aside-bar-hidden">
-  <li><a href="https://github.com/"></a>구)페미로그 old version is here!/
-  <a href="https://github.com/">;;;;</a>/
-  </li>
-  <li><a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  </li>
-</div>
+
           <div ID="top-btn" onClick="window.scrollTo(0,0);">
         <a href="#"><img
     src={ require('../components/top_btn_4.png') }
