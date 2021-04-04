@@ -577,10 +577,10 @@ display: inline-block;
 }
 
 .post-card h1 {
-    font-size: 2em;
+    font-size: 2.03em;
     margin-top: 0em;
     margin-bottom: 0em;
-    letter-spacing: -0.027em;
+    letter-spacing: -0.029em;
     color: rgb(25, 27, 127);
     font-family: 'IBMPlexSansKR-Regular', 'sans-saerif';
 }
