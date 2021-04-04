@@ -353,7 +353,7 @@ color:rgb(25, 27, 127);
     list-style: none !important;
     text-decoration: none !important;
     padding: 0;
-    margin-right: 0.02em;
+    margin-right: -0.02em;
     margin-bottom: 20px;
     color: rgb(25, 27, 127);
 
@@ -362,6 +362,7 @@ color:rgb(25, 27, 127);
 #aside-bar li ul a {
     list-style: none !important;
     text-decoration: none !important;
+    margin-right: -0.02em;
 }
 
 #aside-bar:hover li ul {
