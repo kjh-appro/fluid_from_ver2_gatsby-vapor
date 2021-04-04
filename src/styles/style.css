@@ -1,8 +1,8 @@
 @import "vars.css";
 @import "normalize.css";
 @font-face {
-    font-family: 'NEXON Lv1 Gothic OTF';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-family: 'IBMPlexSansKR-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -557,7 +557,7 @@ display: inline-block;
     margin-top: 0em;
     margin-bottom: 0em;
     letter-spacing: 0em;
-    font-family: 'NEXON Lv1 Gothic OTF', 'sans-saerif';
+    font-family: 'IBMPlexSansKR-Regular', 'sans-saerif';
 }
 .post-card a {
     text-decoration: none;
@@ -589,7 +589,7 @@ display: inline-block;
 .post-header h1 {
     font-size: 2.1em;
     color:rgb(25, 27, 127);
-    font-family: 'NEXON Lv1 Gothic OTF', 'sans-saerif';
+    font-family: 'IBMPlexSansKR-Regular', 'sans-saerif';
     letter-spacing: -0.025em;
     margin-top: 0em;
     margin-bottom: 0em;
