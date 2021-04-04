@@ -1,7 +1,7 @@
 ---
 title: <WK><T><N> 걸 파워
 date: "2021-04-04T19:16:32.169Z"
-tags: [Wiki, 걸파워, 마켓페미니즘, RiotGrrl, GirlsCanDoAnything]
+tags: [Wiki, Translation, 걸파워, 마켓페미니즘, RiotGrrl, GirlsCanDoAnything]
 description: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ‘낙태죄’와 ‘Prolife’ 녹취록 1
 date: "2021-04-04T19:49:32.169Z"
-tags: [낙태,돌봄노동,섹슈얼리티,안티페미니즘,재생산]
+tags: [Review, Research, 낙태, 돌봄노동, 섹슈얼리티, 안티페미니즘, 재생산]
 description: 
 ---
 
