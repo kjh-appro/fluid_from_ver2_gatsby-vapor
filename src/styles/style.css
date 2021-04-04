@@ -1,5 +1,11 @@
 @import "vars.css";
 @import "normalize.css";
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /* Layout */
 .contour {
@@ -580,7 +586,8 @@ display: inline-block;
     text-align: center;
 }
 .post-header h1 {
-    font-size: 3em;
+    font-size: 1.8em;
+    font-family: 'NEXON Lv1 Gothic OTF', 'sans-saerif';
     letter-spacing: -0.025em;
     margin-top: 0em;
     margin-bottom: 0em;
