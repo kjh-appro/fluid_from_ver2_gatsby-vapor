@@ -1,5 +1,5 @@
 ---
-title: '새 사용자 경험(New Editor Experiences)' 인터뷰 _위키미디어 재단
+title: 새 사용자 경험(New Editor Experiences) 인터뷰
 date: "2021-04-04T20:15:32.169Z"
 tags: [Wiki,오픈소스]
 description: 
