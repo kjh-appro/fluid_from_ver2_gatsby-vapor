@@ -1,5 +1,5 @@
 ---
-title: [WK][T][N] 베티 레인
+title: <WK><T><N> 베티 레인
 date: "2021-04-04T18:52:32.169Z"
 tags: [Wiki, 2세대페미니즘, 시민권]
 description: 
