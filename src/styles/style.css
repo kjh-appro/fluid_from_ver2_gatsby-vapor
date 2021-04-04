@@ -27,6 +27,8 @@
     border: 0.02em solid;
     border-color: rgb(25, 27, 127);
     padding: 2em 1.5em;
+    letter-spacing: -0.01em;
+    font-family: 'IBMPlexSansKR-Regular', 'sans-saerif';
 }
 
 .site-container_front {
