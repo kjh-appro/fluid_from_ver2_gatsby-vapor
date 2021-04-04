@@ -1,7 +1,7 @@
 ---
 title: 로그log_full
 date: "2021-04-04T13:10:32.169Z"
-tags: [공지]
+tags: [로그]
 description: 
 ---
 
