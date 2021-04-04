@@ -6,7 +6,12 @@
     font-weight: normal;
     font-style: normal;
 }
-
+@font-face {
+    font-family: 'IBMPlexSansKR-ExtraLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-ExtraLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 /* Layout */
 .contour {
     border: 0em;
@@ -556,7 +561,8 @@ display: inline-block;
     font-size: 1.7em;
     margin-top: 0em;
     margin-bottom: 0em;
-    letter-spacing: 0em;
+    letter-spacing: -0.2em;
+    color: rgb(25, 27, 127);
     font-family: 'IBMPlexSansKR-Regular', 'sans-saerif';
 }
 .post-card a {
@@ -566,6 +572,7 @@ display: inline-block;
 .post-card p {
     margin-bottom: 0em;
     margin-top: 0.75em;
+    font-family: 'IBMPlexSansKR-ExtraLight', 'sans-saerif';
 
     
 }
