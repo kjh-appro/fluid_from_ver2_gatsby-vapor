@@ -37,12 +37,12 @@
 }
 
 .site-container a:hover {
-    background-color: rgb(202, 255, 204);
+    text-decoration: line-through;
     color: black;
 }
 
 .site-container a::selection {
-    background-color: rgb(202, 255, 204);
+    text-decoration: line-through;
     color: black;
 }
 
