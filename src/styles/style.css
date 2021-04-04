@@ -255,7 +255,7 @@ color:rgb(25, 27, 127);
     color: rgb(202, 255, 204);
    }
 
-   #aside-bar-0 {
+#aside-bar-0 {
     background-color: transparent;
     position:absolute;
     cursor: pointer;
@@ -266,7 +266,7 @@ color:rgb(25, 27, 127);
     color: white;
     top: 4%;
     bottom: 0;
-    right:0.56em;
+    right:0.3em;
     padding-top: 20px;
     float:left;
     font-size: 0.875em;
@@ -279,7 +279,6 @@ color:rgb(25, 27, 127);
 
 #aside-bar-0 li  {
 
-    list-style: none !important;
     padding: 0;
     margin-bottom: 20px;
     color: rgb(202, 255, 204);
@@ -287,12 +286,10 @@ color:rgb(25, 27, 127);
 }
 
 #aside-bar-0 li a {
-    list-style: none !important;
     color: rgb(202, 255, 204);
 }
 
 #aside-bar-0:hover li {
-    list-style: none !important;
     text-decoration: line-through;
     color: rgb(202, 255, 204);
    }
