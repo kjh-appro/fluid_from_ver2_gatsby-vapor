@@ -5,7 +5,7 @@ import { graphql, StaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-
+<meta charset="UTF-8"></meta>
 import "../styles/style.css"
 
 const TagIndex = ({ data }) => {
