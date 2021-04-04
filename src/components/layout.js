@@ -83,7 +83,7 @@ class Layout extends Component {
        </div>
 
 <div ID="aside-bar-0">
-<li><a href="https://github.com/"></a>구)페미로그 old version is here!/
+<li><a href="http://femilog.dothome.co.kr">구)페미로그 old version is here!</a>
   </li>
 </div>
 <div ID="aside-bar-hidden">
