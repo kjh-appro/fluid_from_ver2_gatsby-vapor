@@ -16,66 +16,95 @@ description:
 
 website: https://herstory-of-east-asia.netlify.app/
 
-## Online discussion_Sep 20th
-### The Future of Herstory
-Since the herstory project is slowly advanced for a while, we would like to know other countries opinion for promotion and what is the next we could do. Welcome to leave your thoughts by your own language (CH, JP, KR, EN)!
-
-#### 1. About promotion
-- We could cooperate with local Feminist groups or KOLs for social-issues.
-    - Feminist groups in Taiwan: [Womany](https://womany.net/), [Sisterhood is Powerful](https://radfemtw.wordpress.com/)
-    - KOL in Taiwan: [shasha77](https://www.youtube.com/channel/UCiWXd0nmBjlKROwzMyPV-Nw)
-    - Groups in Korea: 
--Civic Hacking Community [Nullfull](https://nullfull.kr/) 
--Democracy Activists Group [Parti](https://parti.coop/)
--Feminist Group [Femilog](https://femilog.dothome.co.kr/), [Shadow Pins](https://weareshadowpins.com/)
-- Japanese and Korean friends please provide appropriate groups and/or KOLs above.
-- Welcome to write more ideas you think about!
+(...)
 
 #### 2. About project future
 
 As we (Taiwan) think about, there cloud be two ways to go. Also, welcome to provide your ideas.
 
 (1) As an East-Asia issue platform
-- We would regularly (maybe monthly) update the newest Feminist issues on herstory website.
-- Taiwanese friends can take the responsibility to remind others on slack.
-- by fruid(Korea)-> Maybe, it’s gonna be possible. (Not regular but irregular way). I think we can construct DB together about bunch of powerful issues like Nthroom, Wartime Sexual Violence, MeToo Movement… Those things has a common ground that each woman in East-Asia had suffered pain because of Patriarchy, Colonial Masculinity, Confucianism at.   
-가능하지 않나 싶습니다. (정기가 아닌 비정기적 방식으로). 저는 우리가 N번방, 전시성폭력, 미투 운동같은 강력한 이슈들에 대해서 함께 DB를 만들어 나갈 수 있다고 생각합니다. 그 같은 주제/이슈들은 동아시아의 여성들이 가부장제, 식민지남성성, 유교 때문에 고통을 받는 공통의 지대를 형성하고 있습니다. 
+- We would regularly (maybe monthly) update the newest Feminist issues 
+on herstory website.
+- Taiwanese friends can take the responsibility to remind others 
+on slack.
+- by fruid(Korea)-> Maybe, it’s gonna be possible. 
+(Not regular but irregular way). I think we can construct DB together 
+about bunch of powerful issues like Nthroom, Wartime Sexual Violence, 
+MeToo Movement… Those things has a common ground that each woman in 
+East-Asia had suffered pain because of Patriarchy, 
+Colonial Masculinity, Confucianism at.   
+가능하지 않나 싶습니다. (정기가 아닌 비정기적 방식으로). 저는 우리가 N번방, 전시성폭력, 
+미투 운동같은 강력한 이슈들에 대해서 함께 DB를 만들어 나갈 수 있다고 생각합니다. 
+그 같은 주제/이슈들은 동아시아의 여성들이 가부장제, 식민지남성성, 유교 때문에 고통을 
+받는 공통의 지대를 형성하고 있습니다. 
 
 (2) As a Feminist-issue sharing platform
-- Create a story collection area on herstory website. User who saw or suffered by related issues can submit their story. Verified stories will display on website.
-- As an easy way going, we can create a google form to collect stories and then paste to herstory google sheet manually.
-- Add a comment system like [Disqus](https://disqus.com/) under each story maybe a good idea, isnt it?
-- by fruid(Korea)-> I agree. (If there will be the promise for source mark, safety.)
+- Create a story collection area on herstory website. User who 
+saw or suffered by related issues can submit their story. 
+Verified stories will display on website.
+- As an easy way going, we can create a google form to collect 
+stories and then paste to herstory google sheet manually.
+- Add a comment system like [Disqus](https://disqus.com/) under 
+each story maybe a good idea, isnt it?
+- by fruid(Korea)-> I agree. (If there will be the promise 
+for source mark, safety.)
 출처표기와 안전 문제만 해결된다면, 이같은 방법도 좋다고 생각합니다. 
 
 #### 3. About Website 
 
 Please leave a feedbacks for programers, designers. 
 
-- by fruid(Korea) I wish there are some front page that are mapping the DB, not just listing. (I liked the black globe before. What would be nice next, sea?)
-리스트형 말고 한번에 맵핑되서 보여지는 첫 화면이 있었으면 좋겠습니다. (저는 지구본도 괜찮았어요. 다른 건 무엇이 있을까요, 바다?)
-타임라인의 각 항목을 클릭했을때 창이 오른쪽 상단에 고정된 위치에 뜨는 것이 아니라, 각 항목 바로 오른쪽 옆에 떴으면 좋겠습니다. 지금은 내용을 보려면 커서를 위로 한참 올라가서 봐야 하는 어려움이 있습니다.
-- by Jerry(Taiwan) We should fix the right column to show sotries. Currently, the right story area disappears when scrolling down timeline.
+- by fruid(Korea) I wish there are some front page that are 
+mapping the DB, not just listing. (I liked the black globe 
+before. What would be nice next, sea?)
+리스트형 말고 한번에 맵핑되서 보여지는 첫 화면이 있었으면 좋겠습니다. 
+(저는 지구본도 괜찮았어요. 다른 건 무엇이 있을까요, 바다?)
+타임라인의 각 항목을 클릭했을때 창이 오른쪽 상단에 고정된 위치에 뜨는 것이 
+아니라, 각 항목 바로 오른쪽 옆에 떴으면 좋겠습니다. 지금은 내용을 보려면 
+커서를 위로 한참 올라가서 봐야 하는 어려움이 있습니다.
+- by Jerry(Taiwan) We should fix the right column to show 
+sotries. Currently, the right story area disappears 
+when scrolling down timeline.
 
 ## Online meethack_Jul 25th
 
 ### Self-introduction
 
 | name | slack ID on g0v | 3key words | interests |
+
 | -------- | -------- | -------- | -------- 
-| Kazuki | @kaizumaki | cat, django, github | the female engineer community and the local community through cats. |
+
+| Kazuki | @kaizumaki | cat, django, github | the female 
+engineer community and the local community through cats. |
+
 | mami | @mamix1116| cat,map,aibo | |
-| Miley | @Miley_c4japan | edu,brain,sleep  | FtO(collaboration with Taiwan,HongKong,Korea and Japan),education,gender equality
-| Patrice | @Pei4 | cat, UIUX, illustrate | draw, learning new things|
+
+| Miley | @Miley_c4japan | edu,brain,sleep  | 
+
+FtO(collaboration with Taiwan,HongKong,Korea and Japan),
+education,gender equality
+| Patrice | @Pei4 | cat, UIUX, illustrate | draw, 
+learning new things|
+
 | ael | @ael | UX,gender |  |
+
 | Afra | @afra | thinking,writing,listening |   |
+
 | sl | @lexifdev | developer, korea, community | media |
-| Lisbeth | @LisbethW1130 | Womany backend developer,Transgender,Learning Vue |ddddd |
+
+| Lisbeth | @LisbethW1130 | Womany backend developer,
+Transgender,Learning Vue |ddddd |
+
 | kirakira | @aaa | aaa,bbb,ccc |ddddd |
+
 | jiwoo | @constmoon | Developer, Korea, Women Techmaker |
+
 | fluid | @fluidto | 長女, Graphic Designer, Feminism Activist | 
+
 | gyujin | @gyujin | 長女, Designer, Feminism Activist | 
-| Jaeseo | @tjruddl26 | listen carefully, people, happily ever after |
+
+| Jaeseo | @tjruddl26 | listen carefully, people, happily 
+ever after |
 
 
 ```
