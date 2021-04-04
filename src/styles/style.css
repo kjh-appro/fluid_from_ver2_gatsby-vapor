@@ -553,10 +553,10 @@ display: inline-block;
 }
 
 .post-card h1 {
-    font-size: 2em;
+    font-size: 1.7em;
     margin-top: 0em;
     margin-bottom: 0em;
-    letter-spacing: -0.025em;
+    letter-spacing: 0em;
     font-family: 'NEXON Lv1 Gothic OTF', 'sans-saerif';
 }
 .post-card a {
