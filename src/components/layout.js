@@ -28,7 +28,9 @@ class Layout extends Component {
       <div className="header-menu-bar">
         <div className="nav-container">
             <ul className="header-nav">
-              <li id="header-nav-first"><Link to={`/tags`}>tag</Link></li>
+              <li id="header-nav-first"><Link
+            to={`/`}>home</Link></li>
+              <li><Link to={`/tags`}>tag</Link></li>
               <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
               log</a></li>
             </ul>
@@ -95,7 +97,7 @@ class Layout extends Component {
   </li>
 </div>
        <div ID="aside-bar">
-       <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2009-2015</a>/
+       <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2008-2014</a>/
 </li>
 <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2015-2017</a>/
 </li>
