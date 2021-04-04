@@ -1,7 +1,7 @@
 ---
 title: 페미로그에 대해서
 date: "2016-05-15T22:40:32.169Z"
-tags: []
+tags: [공지]
 description: 
 ---
 
