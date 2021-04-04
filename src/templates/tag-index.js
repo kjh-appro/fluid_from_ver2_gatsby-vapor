@@ -4,7 +4,6 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
-<meta charset="UTF-8"></meta>
 
 import "../styles/style.css"
 
