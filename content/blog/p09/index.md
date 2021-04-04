@@ -20,7 +20,8 @@ website: https://herstory-of-east-asia.netlify.app/
 
 #### 2. About project future
 
-As we (Taiwan) think about, there cloud be two ways to go. Also, welcome to provide your ideas.
+As we (Taiwan) think about, there cloud be two ways to go.
+Also, welcome to provide your ideas.
 
 (1) As an East-Asia issue platform
 - We would regularly (maybe monthly) update the newest Feminist issues 
